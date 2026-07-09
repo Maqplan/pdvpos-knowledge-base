@@ -6,6 +6,12 @@
 
 ---
 
+🏠 **[Página Inicial](../../README.md)**
+&nbsp;&nbsp;|&nbsp;&nbsp;
+📚 **[Índice dos Módulos](../00-INTRODUCTION/MODULES-INDEX.md)**
+
+---
+
 # Bem-vindo ao PDVPOS ERP
 
 O **PDVPOS ERP** é uma plataforma completa de gestão empresarial desenvolvida para atender às necessidades do varejo brasileiro.
@@ -163,8 +169,8 @@ Entre eles:
 
 - PDVs Desktop
 - SmartPOS
-- Gateways de Pagamento
 - ConnectTEF
+- Gateways de Pagamento
 - Marketplaces
 - Plataformas de E-commerce
 - Escritórios Contábeis
@@ -201,22 +207,26 @@ Cada capítulo apresenta:
 - Casos de uso.
 - Diferenciais.
 
-Essa estrutura permite que clientes, parceiros e colaboradores encontrem rapidamente as informações de que precisam.
+Essa estrutura permite que clientes, parceiros, colaboradores e ferramentas de IA encontrem rapidamente as informações de que precisam.
 
 ---
 
-# Próximo Capítulo
+# Veja Também
 
-**02 - Recursos Gerais da Plataforma**
+- [Architecture Overview](../00-INTRODUCTION/ARCHITECTURE-OVERVIEW.md)
+- [Core Concepts](../00-INTRODUCTION/CORE-CONCEPTS.md)
+- [Ecossistema PDVPOS ERP](../00-INTRODUCTION/ECOSSISTEMA-PDVPOS-ERP.md)
+- [Fluxos Operacionais](../00-INTRODUCTION/FLUXOS-OPERACIONAIS.md)
+- [Módulos da Plataforma](01-MODULOS-DA-PLATAFORMA.md)
 
-Neste capítulo serão apresentados os recursos que estão disponíveis em toda a plataforma, independentemente do módulo utilizado, como:
+---
 
-- Dashboard
-- Favoritos
-- Pesquisa
-- Exportação de dados
-- Processamento de relatórios
-- Logs
-- Personalização
-- Multiempresa
-- Segurança
+# Navegação
+
+⬅️ **Anterior:** [Índice dos Módulos](../00-INTRODUCTION/MODULES-INDEX.md)
+
+🏠 **Início:** [README](../../README.md)
+
+➡️ **Próximo:** [02 - Recursos Gerais da Plataforma](02-RECURSOS-GERAIS-DA-PLATAFORMA.md)
+
+---

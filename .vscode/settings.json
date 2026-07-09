@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^Set-Location 'd:\\\\Projetos\\\\pdvpos-erp-docs'; \\$from='README\\.md'; \\$to='README\\.md'; \\$root=\\(Get-Location\\)\\.Path; \\$fromAbs=\\[IO\\.Path\\]::GetFullPath\\(\\(Join-Path \\$root \\$from\\)\\); \\$toAbs=\\[IO\\.Path\\]::GetFullPath\\(\\(Join-Path \\$root \\$to\\)\\); \\$fromDir=\\[IO\\.Path\\]::GetDirectoryName\\(\\$fromAbs\\); \\$fromUri=New-Object System\\.Uri\\(\\(\\$fromDir\\.TrimEnd\\('\\\\\\\\'\\)\\+'\\\\\\\\'\\)\\); \\$toUri=New-Object System\\.Uri\\(\\$toAbs\\); \\$rel=\\$fromUri\\.MakeRelativeUri\\(\\$toUri\\)\\.ToString\\(\\); Write-Output \\('\\[' \\+ \\$rel \\+ '\\] len=' \\+ \\$rel\\.Length\\)$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

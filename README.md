@@ -27,13 +27,13 @@ docs/00 - INTRODUCTION/
 
 | Documento | Descrição |
 |-----------|-----------|
-| [Architecture Overview](docs/00%20-%20INTRODUCTION/ARCHITECTURE-OVERVIEW.md) | Arquitetura geral da plataforma |
-| [Core Concepts](docs/00%20-%20INTRODUCTION/CORE-CONCEPTS.md) | Conceitos fundamentais utilizados em todo o ERP |
-| [Diferenciais Competitivos](docs/00%20-%20INTRODUCTION/DIFERENCIAIS-COMPETITIVOS.md) | Principais diferenciais do produto |
-| [Ecossistema PDVPOS ERP](docs/00%20-%20INTRODUCTION/ECOSSISTEMA-PDVPOS-ERP.md) | Componentes que integram a plataforma |
-| [Fluxos Operacionais](docs/00%20-%20INTRODUCTION/FLUXOS-OPERACIONAIS.md) | Fluxos entre os módulos do ERP |
-| [Glossário](docs/00%20-%20INTRODUCTION/GLOSSARIO.md) | Termos utilizados na documentação |
-| [Índice dos Módulos](docs/00%20-%20INTRODUCTION/MODULES-INDEX.md) | Visão geral dos módulos funcionais |
+| [Architecture Overview](docs/00-INTRODUCTION/ARCHITECTURE-OVERVIEW.md) | Arquitetura geral da plataforma |
+| [Core Concepts](docs/00-INTRODUCTION/CORE-CONCEPTS.md) | Conceitos fundamentais utilizados em todo o ERP |
+| [Diferenciais Competitivos](docs/00-INTRODUCTION/DIFERENCIAIS-COMPETITIVOS.md) | Principais diferenciais do produto |
+| [Ecossistema PDVPOS ERP](docs/00-INTRODUCTION/ECOSSISTEMA-PDVPOS-ERP.md) | Componentes que integram a plataforma |
+| [Fluxos Operacionais](docs/00-INTRODUCTION/FLUXOS-OPERACIONAIS.md) | Fluxos entre os módulos do ERP |
+| [Glossário](docs/00-INTRODUCTION/GLOSSARIO.md) | Termos utilizados na documentação |
+| [Índice dos Módulos](docs/00-INTRODUCTION/MODULES-INDEX.md) | Visão geral dos módulos funcionais |
 
 ---
 

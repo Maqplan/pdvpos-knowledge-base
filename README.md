@@ -86,6 +86,7 @@ docs/03-PDV-DESKTOP/
 
 | Documento | Descrição |
 |-----------|-----------|
+| [00 - README](docs/03-PDV-DESKTOP/README.md) | Visão geral do PDV Desktop |
 | [00 - Apresentação](docs/03-PDV-DESKTOP/00-APRESENTACAO.md) | Visão geral do PDV Desktop |
 | [01 - Arquitetura](docs/03-PDV-DESKTOP/01-ARQUITETURA.md) | Arquitetura distribuída, operação offline e sincronização |
 | [02 - Operação de Caixa](docs/03-PDV-DESKTOP/02-OPERACAO-DE-CAIXA.md) | Abertura, fechamento, fundo de caixa, sangrias e suprimentos |

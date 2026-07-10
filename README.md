@@ -76,7 +76,7 @@ docs/01-FUNCTIONAL-MODULES/
 
 ---
 
-# 🖥️ PDV (Desktop Windwos - Frente de Caixa)
+# 🖥️ PDV (Desktop Windows - Frente de Caixa)
 
 Localização:
 
@@ -126,7 +126,7 @@ docs/03-PDV-DESKTOP/
 
 10. Módulos Funcionais do ERP
 
-## PDV (Desktop Windwos)
+## PDV (Desktop Windows)
 
 11. Documentação do PDV Desktop
 

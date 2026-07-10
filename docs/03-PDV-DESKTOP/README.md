@@ -93,41 +93,41 @@ Através de parametrizações é possível adaptar seu funcionamento para divers
 # Fluxo Operacional
 
 ```text
-Cliente
+				 Cliente
 
-    │
+					│
 
-    ▼
+					▼
 
-Venda
+				  Venda
 
-    │
+					│
 
- ┌──┼───────────────┬──────────────┐
+ ┌──────────────────┬──────────────┐
 
  ▼                  ▼              ▼
 
-Pedido          Delivery       Mesa
+Pedido          Delivery         Mesa
 
  │                  │              │
 
- └──────────────┬───┴──────────────┘
+ └──────────────────┴──────────────┘
+	
+					▼
 
-                ▼
+				Pagamento
 
-           Pagamento
+					▼
 
-                ▼
+			Documento Fiscal
 
-        Documento Fiscal
+					▼
 
-                ▼
+			Sincronização
 
-          Sincronização
+					▼
 
-                ▼
-
-               ERP
+					ERP
 ```
 
 ---

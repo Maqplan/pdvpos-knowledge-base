@@ -2,13 +2,13 @@
 ---
 [README principal](README.md) | [Visao](VISION.md) | [Principios](PRINCIPLES.md) | [About](ABOUT.md)
 ---
-> **Breadcrumbs:** [Inicio](README.md) / 
+> **Breadcrumbs:** [Inicio](README.md) /
 README
 <!-- NAVIGATION:END -->
 
 # 📚 Índice da Documentação
 
-Bem-vindo à documentação oficial do **PDVPOS ERP**.
+Bem-vindo à documentação oficial do **Ecossistema PDVPOS**.
 
 Recomenda-se seguir a leitura na ordem apresentada abaixo.
 
@@ -29,13 +29,13 @@ Recomenda-se seguir a leitura na ordem apresentada abaixo.
 
 Localização:
 
-```
-docs/00 - INTRODUCTION/
+```text
+docs/00-INTRODUCTION/
 ```
 
 | Documento | Descrição |
 |-----------|-----------|
-| [Architecture Overview](docs/00-INTRODUCTION/ARCHITECTURE-OVERVIEW.md) | Arquitetura geral da plataforma |
+| [Architecture Overview](docs/00-INTRODUCTION/ARCHITECTURE-OVERVIEW.md) | Arquitetura geral da plataforma ERP |
 | [Core Concepts](docs/00-INTRODUCTION/CORE-CONCEPTS.md) | Conceitos fundamentais utilizados em todo o ERP |
 | [Diferenciais Competitivos](docs/00-INTRODUCTION/DIFERENCIAIS-COMPETITIVOS.md) | Principais diferenciais do produto |
 | [Ecossistema PDVPOS ERP](docs/00-INTRODUCTION/ECOSSISTEMA-PDVPOS-ERP.md) | Componentes que integram a plataforma |
@@ -45,11 +45,11 @@ docs/00 - INTRODUCTION/
 
 ---
 
-# 🏢 Módulos Funcionais
+# 🏢 Módulos Funcionais - ERP (Backoffice)
 
 Localização:
 
-```
+```text
 docs/01-FUNCTIONAL-MODULES/
 ```
 
@@ -68,26 +68,66 @@ docs/01-FUNCTIONAL-MODULES/
 | [10 - Gestão Financeira](docs/01-FUNCTIONAL-MODULES/10-GESTAO-FINANCEIRA.md) | Receitas, despesas, contas e fluxo de caixa |
 | [11 - Gestão de Cobranças](docs/01-FUNCTIONAL-MODULES/11-GESTAO-DE-COBRANCAS.md) | PIX, boletos, cartões e gateways |
 | [12 - Gestão Fiscal e Documentos Eletrônicos](docs/01-FUNCTIONAL-MODULES/12-GESTAO-FISCAL-E-DOCUMENTOS-ELETRONICOS.md) | NF-e, NFC-e, NFS-e e documentos fiscais |
-| [13 - Gestão da Reforma Tributária](docs/01-FUNCTIONAL-MODULES/13-GESTAO-DA-REFORMA-TRIBUTARIA.md) | IBS, CBS, Perfis Tributários e Assistente |
-| [14 - Gestão Contábil](docs/01-FUNCTIONAL-MODULES/14-GESTAO-CONTABIL.md) | Contadores e integração contábil |
-| [15 - Gestão de Serviços e Ordens de Serviço](docs/01-FUNCTIONAL-MODULES/15-GESTAO-DE-SERVICOS-E-ORDENS-DE-SERVICO.md) | OS, técnicos e agenda |
+| [13 - Gestão da Reforma Tributária](docs/01-FUNCTIONAL-MODULES/13-GESTAO-DA-REFORMA-TRIBUTARIA.md) | IBS, CBS e perfis tributários |
+| [14 - Gestão Contábil](docs/01-FUNCTIONAL-MODULES/14-GESTAO-CONTABIL.md) | Contabilidade e integração contábil |
+| [15 - Gestão de Serviços e Ordens de Serviço](docs/01-FUNCTIONAL-MODULES/15-GESTAO-DE-SERVICOS-E-ORDENS-DE-SERVICO.md) | Ordem de serviço e assistência técnica |
 | [16 - Integrações](docs/01-FUNCTIONAL-MODULES/16-INTEGRACOES.md) | APIs, Webhooks, Marketplaces e parceiros |
 | [17 - Relatórios e Indicadores](docs/01-FUNCTIONAL-MODULES/17-RELATORIOS-E-INDICADORES.md) | Relatórios operacionais e gerenciais |
 
 ---
 
+# 🖥️ PDV Desktop (Frente de Caixa)
+
+Localização:
+
+```text
+docs/03-PDV-DESKTOP/
+```
+
+| Documento | Descrição |
+|-----------|-----------|
+| [00 - Apresentação](docs/03-PDV-DESKTOP/00-APRESENTACAO.md) | Visão geral do PDV Desktop |
+| [01 - Arquitetura](docs/03-PDV-DESKTOP/01-ARQUITETURA.md) | Arquitetura distribuída, operação offline e sincronização |
+| [02 - Operação de Caixa](docs/03-PDV-DESKTOP/02-OPERACAO-DE-CAIXA.md) | Abertura, fechamento, fundo de caixa, sangrias e suprimentos |
+| [03 - Vendas](docs/03-PDV-DESKTOP/03-VENDAS.md) | Processo completo de venda e recebimento |
+| [04 - Pedidos e Orçamentos](docs/03-PDV-DESKTOP/04-PEDIDOS-E-ORCAMENTOS.md) | Pré-vendas, orçamentos e pedidos em andamento |
+| [05 - Mesas e Comandas](docs/03-PDV-DESKTOP/05-MESAS-E-COMANDAS.md) | Atendimento para bares, restaurantes e lanchonetes |
+| [06 - Delivery e Encomendas](docs/03-PDV-DESKTOP/06-DELIVERY-E-ENCOMENDAS.md) | Delivery próprio, retirada no balcão e encomendas |
+| [07 - Produção](docs/03-PDV-DESKTOP/07-PRODUCAO.md) | Impressão de produção, cozinha, componentes e modificadores |
+| [08 - Sincronização](docs/03-PDV-DESKTOP/08-SINCRONIZACAO.md) | Funcionamento offline e sincronização com o ERP |
+| [09 - Documentos Fiscais](docs/03-PDV-DESKTOP/09-DOCUMENTOS-FISCAIS.md) | NFC-e, NF-e, NFS-e, contingência e emissão fiscal |
+| [10 - TEF e Pagamentos](docs/03-PDV-DESKTOP/10-TEF-E-PAGAMENTOS.md) | ConnectTEF, PIX, cartões e pagamento misto |
+| [11 - Operações de Caixa](docs/03-PDV-DESKTOP/11-OPERACOES-DE-CAIXA.md) | Conferência, fechamento, sangrias e suprimentos |
+| [12 - Relatórios](docs/03-PDV-DESKTOP/12-RELATORIOS.md) | Relatórios operacionais, fiscais e gerenciais |
+| [13 - Trocas e Devoluções](docs/03-PDV-DESKTOP/13-TROCAS-E-DEVOLUCOES.md) | Processo integrado de trocas e devoluções |
+| [14 - Diferenciais](docs/03-PDV-DESKTOP/14-DIFERENCIAIS.md) | Principais diferenciais competitivos do PDV Desktop |
+| [15 - Configuração Inicial](docs/03-PDV-DESKTOP/15-CONFIGURACAO-INICIAL.md) | Assistente de configuração do terminal |
+| [16 - Atalhos e Produtividade](docs/03-PDV-DESKTOP/16-ATALHOS-E-PRODUTIVIDADE.md) | Atalhos de teclado e recursos de produtividade |
+| [17 - Fluxos Operacionais](docs/03-PDV-DESKTOP/17-FLUXOS-OPERACIONAIS.md) | Fluxos completos das operações do PDV |
+
+---
+
 # 📖 Ordem recomendada de leitura
+
+## Conhecendo a Plataforma
 
 1. ABOUT
 2. VISION
 3. PRINCIPLES
 4. Architecture Overview
 5. Core Concepts
-6. Ecossistema PDVPOS ERP
+6. Ecossistema PDVPOS ERP (Backoffice)
 7. Fluxos Operacionais
 8. Diferenciais Competitivos
 9. Glossário
-10. Módulos Funcionais
+
+## ERP (Backoffice)
+
+10. Módulos Funcionais do ERP
+
+## PDV Desktop
+
+11. Documentação do PDV Desktop
 
 ---
 
@@ -101,10 +141,12 @@ docs/01-FUNCTIONAL-MODULES/
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
+
 - [README](README.md)
 - [Architecture Overview](docs/00-INTRODUCTION/ARCHITECTURE-OVERVIEW.md)
 - [Modules Index](docs/00-INTRODUCTION/MODULES-INDEX.md)
+
 ---
-**Navegacao:** [Inicio](README.md)
+**Navegação:** [Início](README.md)
 <!-- NAVIGATION_FOOTER:END -->

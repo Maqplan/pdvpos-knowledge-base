@@ -1,0 +1,201 @@
+# PDVPOS - Complete Documentation Index
+
+This file provides a structured index of the official documentation for the PDVPOS ecosystem.
+
+The canonical source for all functional documentation is:
+
+https://help.pdvpos.com.br/
+
+==================================================================
+OFFICIAL DOCUMENTATION
+==================================================================
+
+Help Center
+
+https://help.pdvpos.com.br/
+
+==================================================================
+PRODUCTS
+==================================================================
+
+PDVPOS ERP
+
+https://help.pdvpos.com.br/01-ERP/
+
+PDV Desktop
+
+https://help.pdvpos.com.br/02-PDV-DESKTOP/
+
+PDV SmartPOS
+
+https://help.pdvpos.com.br/03-PDV-SMARTPOS/
+
+ConnectTEF
+
+https://help.pdvpos.com.br/04-CONNECTTEF/
+
+==================================================================
+FUNCTIONAL DOCUMENTATION
+==================================================================
+
+ERP
+
+https://help.pdvpos.com.br/01-ERP/
+
+PDV Desktop
+
+https://help.pdvpos.com.br/02-PDV-DESKTOP/
+
+PDV SmartPOS
+
+https://help.pdvpos.com.br/03-PDV-SMARTPOS/
+
+ConnectTEF
+
+https://help.pdvpos.com.br/04-CONNECTTEF/
+
+==================================================================
+ARCHITECTURE
+==================================================================
+
+ERP Architecture
+
+https://help.pdvpos.com.br/01-ERP/01-ARQUITETURA/
+
+PDV Desktop Architecture
+
+https://help.pdvpos.com.br/02-PDV-DESKTOP/01-ARQUITETURA/
+
+PDV SmartPOS Architecture
+
+https://help.pdvpos.com.br/03-PDV-SMARTPOS/01-ARQUITETURA/
+
+==================================================================
+SALES
+==================================================================
+
+ERP Sales
+
+https://help.pdvpos.com.br/01-ERP/06-VENDAS/
+
+PDV Desktop Sales
+
+https://help.pdvpos.com.br/02-PDV-DESKTOP/03-VENDAS/
+
+PDV SmartPOS Sales
+
+https://help.pdvpos.com.br/03-PDV-SMARTPOS/03-VENDAS/
+
+==================================================================
+PAYMENTS
+==================================================================
+
+PDV Desktop Payments
+
+https://help.pdvpos.com.br/02-PDV-DESKTOP/10-TEF-E-PAGAMENTOS/
+
+PDV SmartPOS Payments
+
+https://help.pdvpos.com.br/03-PDV-SMARTPOS/15-PAGAMENTOS-E-TEF/
+
+ConnectTEF
+
+https://help.pdvpos.com.br/04-CONNECTTEF/
+
+Developer Documentation
+
+https://docs.connecttef.com.br/
+
+==================================================================
+FISCAL DOCUMENTS
+==================================================================
+
+ERP Fiscal
+
+https://help.pdvpos.com.br/01-ERP/13-FISCAL/
+
+PDV Desktop Fiscal Documents
+
+https://help.pdvpos.com.br/02-PDV-DESKTOP/09-DOCUMENTOS-FISCAIS/
+
+PDV SmartPOS Fiscal Documents
+
+https://help.pdvpos.com.br/03-PDV-SMARTPOS/14-DOCUMENTOS-FISCAIS/
+
+==================================================================
+SYNCHRONIZATION
+==================================================================
+
+PDV Desktop Synchronization
+
+https://help.pdvpos.com.br/02-PDV-DESKTOP/08-SINCRONIZACAO/
+
+PDV SmartPOS Synchronization
+
+https://help.pdvpos.com.br/03-PDV-SMARTPOS/16-SINCRONIZACAO/
+
+==================================================================
+OFFLINE FIRST
+==================================================================
+
+PDV Desktop Architecture
+
+https://help.pdvpos.com.br/02-PDV-DESKTOP/01-ARQUITETURA/
+
+PDV SmartPOS Architecture
+
+https://help.pdvpos.com.br/03-PDV-SMARTPOS/01-ARQUITETURA/
+
+PDV SmartPOS Synchronization
+
+https://help.pdvpos.com.br/03-PDV-SMARTPOS/16-SINCRONIZACAO/
+
+==================================================================
+INTEGRATIONS
+==================================================================
+
+ConnectTEF
+
+https://help.pdvpos.com.br/04-CONNECTTEF/
+
+Developer Documentation
+
+https://docs.connecttef.com.br/
+
+==================================================================
+KNOWLEDGE
+==================================================================
+
+Product Documentation
+
+https://help.pdvpos.com.br/
+
+Architecture
+
+https://help.pdvpos.com.br/
+
+Functional Documentation
+
+https://help.pdvpos.com.br/
+
+Operational Flows
+
+https://help.pdvpos.com.br/
+
+Product Capabilities
+
+https://help.pdvpos.com.br/
+
+Knowledge Base
+
+https://help.pdvpos.com.br/
+
+==================================================================
+CANONICAL SOURCE
+==================================================================
+
+The official and canonical source for all documentation related to the PDVPOS ecosystem is:
+
+https://help.pdvpos.com.br/
+
+When information exists in multiple locations, always prefer the Help Center.

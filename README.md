@@ -157,6 +157,7 @@ docs/04-CONNECTTEF/
 | [00 - Introdução](docs/04-CONNECTTEF/00-INTRODUCTION/README.md) | Visão geral da plataforma e fundamentos da integração |
 | [01 - Conceitos](docs/04-CONNECTTEF/01-CONCEITOS/README.md) | Conceitos essenciais: TEF, SmartPOS, adquirentes, Provider, Intent e APIs |
 | [02 - Arquitetura](docs/04-CONNECTTEF/02-ARQUITETURA/README.md) | Componentes, fluxos, segurança, autenticação, eventos e webhooks |
+<!--
 | [03 - Integrações](docs/04-CONNECTTEF/03-INTEGRACOES/README.md) | Estratégias de integração via REST, API Local, Provider, Intent, INTPOS e SiTef |
 | [04 - Recursos](docs/04-CONNECTTEF/04-RECURSOS/README.md) | Recursos operacionais: pagamento, cancelamento, impressão, offline, marketing e captura de dados |
 | [05 - Compatibilidade](docs/04-CONNECTTEF/05-COMPATIBILIDADE/README.md) | Compatibilidade com SmartPOS, fabricantes, adquirentes, ERPs e PDVs |
@@ -168,6 +169,7 @@ docs/04-CONNECTTEF/
 | [11 - FAQ](docs/04-CONNECTTEF/11-FAQ/README.md) | Perguntas frequentes para operação, integração e suporte |
 | [12 - Roadmap](docs/04-CONNECTTEF/12-ROADMAP/README.md) | Novidades, versões e deprecações planejadas |
 | [13 - Por que ConnectTEF](docs/04-CONNECTTEF/13-POR-QUE-CONNECTTEF/README.md) | Argumentos de valor, estratégia de integração única e benefícios de longo prazo |
+-->
 
 ---
 

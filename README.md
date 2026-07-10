@@ -45,7 +45,7 @@ docs/00-INTRODUCTION/
 
 ---
 
-# 🏢 Módulos Funcionais - ERP (Backoffice)
+# 🏢 Módulos Funcionais - ERP (Backoffice WEB)
 
 Localização:
 
@@ -76,7 +76,7 @@ docs/01-FUNCTIONAL-MODULES/
 
 ---
 
-# 🖥️ PDV Desktop (Frente de Caixa)
+# 🖥️ PDV (Desktop Windwos - Frente de Caixa)
 
 Localização:
 
@@ -86,7 +86,7 @@ docs/03-PDV-DESKTOP/
 
 | Documento | Descrição |
 |-----------|-----------|
-| [00 - README](docs/03-PDV-DESKTOP/README.md) | Visão geral do PDV Desktop |
+| [README](docs/03-PDV-DESKTOP/README.md) | Página inicial da documentação do PDV Desktop |
 | [00 - Apresentação](docs/03-PDV-DESKTOP/00-APRESENTACAO.md) | Visão geral do PDV Desktop |
 | [01 - Arquitetura](docs/03-PDV-DESKTOP/01-ARQUITETURA.md) | Arquitetura distribuída, operação offline e sincronização |
 | [02 - Operação de Caixa](docs/03-PDV-DESKTOP/02-OPERACAO-DE-CAIXA.md) | Abertura, fechamento, fundo de caixa, sangrias e suprimentos |
@@ -122,11 +122,11 @@ docs/03-PDV-DESKTOP/
 8. Diferenciais Competitivos
 9. Glossário
 
-## ERP (Backoffice)
+## ERP (Backoffice WEB)
 
 10. Módulos Funcionais do ERP
 
-## PDV Desktop
+## PDV (Desktop Windwos)
 
 11. Documentação do PDV Desktop
 
@@ -146,7 +146,8 @@ docs/03-PDV-DESKTOP/
 
 - [README](README.md)
 - [Architecture Overview](docs/00-INTRODUCTION/ARCHITECTURE-OVERVIEW.md)
-- [Modules Index](docs/00-INTRODUCTION/MODULES-INDEX.md)
+- [Modules Index ERP](docs/00-INTRODUCTION/MODULES-INDEX.md)
+- [README PDV Desktop](docs/03-PDV-DESKTOP/README.md)
 
 ---
 **Navegação:** [Início](README.md)

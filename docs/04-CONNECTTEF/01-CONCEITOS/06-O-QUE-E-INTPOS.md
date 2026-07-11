@@ -25,11 +25,11 @@ Compreender o funcionamento do padrão INTPOS, sua importância histórica e com
 
 Quando as primeiras soluções de TEF começaram a ser utilizadas em larga escala, muitas linguagens de programação e sistemas operacionais possuíam limitações para integração direta com bibliotecas e APIs.
 
-A troca de arquivos surgiu como uma solução simples, padronizada e independente da tecnologia utilizada pelo ERP.
+A troca de arquivos surgiu como uma solução simples, padronizada e independente da tecnologia utilizada pelo PDV.
 
 Em vez de chamar funções diretamente, o sistema apenas gravava arquivos contendo a solicitação da operação.
 
-Outro software interpretava esses arquivos e executava a comunicação com o terminal de pagamento.
+Outro software intPDVretava esses arquivos e executava a comunicação com o terminal de pagamento.
 
 ---
 
@@ -38,7 +38,7 @@ Outro software interpretava esses arquivos e executava a comunicação com o ter
 O fluxo básico é bastante simples.
 
 ```text
-ERP
+PDV
 
     │
 
@@ -82,14 +82,14 @@ Arquivo de Retorno
 
     ▼
 
-ERP
+PDV
 ```
 
 Toda a comunicação acontece através de arquivos compartilhados.
 
 ---
 
-# O que o ERP faz?
+# O que o PDV faz?
 
 Um sistema baseado em INTPOS normalmente é responsável por:
 
@@ -120,7 +120,7 @@ Por esse motivo, o ConnectTEF continua oferecendo compatibilidade com esse padr�
 No ConnectTEF, o padrão INTPOS é suportado através do Gerenciador Padrão.
 
 ```text
-ERP
+PDV
 
      │
 
@@ -145,19 +145,19 @@ ConnectTEF
 SmartPOS
 ```
 
-O ERP continua funcionando exatamente como antes.
+O PDV continua funcionando exatamente como antes.
 
 O ConnectTEF interpreta automaticamente os arquivos e executa toda a comunicação com o SmartPOS.
 
 ---
 
-# Compatibilidade sem reescrever o ERP
+# Compatibilidade sem reescrever o PDV
 
 Essa é uma das principais vantagens da plataforma.
 
 Ao utilizar o Gerenciador Padrão:
 
-- a lógica do ERP permanece inalterada;
+- a lógica do PDV permanece inalterada;
 - não é necessário desenvolver novas APIs;
 - a migração pode ocorrer gradualmente;
 - reduz-se o risco da implantação.
@@ -184,7 +184,7 @@ As duas abordagens podem coexistir dentro da plataforma.
 
 O padrão INTPOS continua sendo recomendado quando:
 
-- o ERP já utiliza essa arquitetura;
+- o PDV já utiliza essa arquitetura;
 - deseja-se preservar a integração existente;
 - o objetivo é migrar para SmartPOS com o menor impacto possível;
 - a modernização será realizada de forma gradual.
@@ -197,7 +197,7 @@ Para novos projetos, normalmente recomenda-se utilizar as APIs modernas disponib
 
 Ao manter suporte ao padrão INTPOS, o ConnectTEF oferece:
 
-- preservação do investimento realizado no ERP;
+- preservação do investimento realizado no PDV;
 - redução do custo de migração;
 - implantação mais rápida;
 - menor risco operacional;

@@ -7,19 +7,20 @@
 
 # 05 - FAQ
 
-A secao de Perguntas Frequentes reune respostas rapidas para as duvidas mais comuns sobre o ConnectTEF.
+A seção de Perguntas Frequentes reune respostas rápidas para as dúvidas mais comuns sobre o ConnectTEF.
 
 ---
 
-# Estrutura desta secao
+# Estrutura desta seção
 
-| Documento | Descricao |
+| Documento | Descrição |
 |-----------|-----------|
-| [01 - FAQ Geral](01-FAQ-GERAL.md) | Visao geral da plataforma e conceitos principais. |
-| [02 - FAQ Integradores](02-FAQ-INTEGRADORES.md) | Duvidas frequentes sobre integracao e desenvolvimento. |
+| [01 - FAQ Geral](01-FAQ-GERAL.md) | Visão geral da plataforma e conceitos principais. |
+| [02 - FAQ Integradores](02-FAQ-INTEGRADORES.md) | Dúvidas frequentes sobre integração e desenvolvimento. |
 | [03 - FAQ SmartPOS](03-FAQ-SMARTPOS.md) | Perguntas relacionadas aos dispositivos SmartPOS. |
-| [04 - FAQ White Label](04-FAQ-WHITE-LABEL.md) | Informacoes sobre parceria e personalizacao. |
-| [05 - FAQ Operacional](05-FAQ-OPERACIONAL.md) | Operacao diaria, falhas e boas praticas. |
+| [04 - FAQ White Label](04-FAQ-WHITE-LABEL.md) | Informações sobre parceria e personalização. |
+| [05 - FAQ Operacional](05-FAQ-OPERACIONAL.md) | Operação diária, falhas e boas práticas. |
+| [06 - FAQ Arquitetura](06-FAQ-ARQUITETURAL.md) | Arquitetura da plataforma, comunicação entre componentes e princípios de integração. |
 
 ---
 
@@ -30,6 +31,7 @@ A secao de Perguntas Frequentes reune respostas rapidas para as duvidas mais com
 3. FAQ SmartPOS
 4. FAQ White Label
 5. FAQ Operacional
+6. FAQ Arquitetural
 
 <!-- NAVIGATION_FOOTER:START -->
 ---

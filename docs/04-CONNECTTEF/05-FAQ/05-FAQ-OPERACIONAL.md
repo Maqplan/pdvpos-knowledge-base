@@ -1,6 +1,6 @@
 ﻿<!-- NAVIGATION:START -->
 ---
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](04-FAQ-WHITE-LABEL.md) | [Próximo](../06-POR-QUE-CONNECTTEF/README.md)
+[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](04-FAQ-WHITE-LABEL.md) | [Próximo](06-FAQ-ARQUITETURAL.md)
 ---
 > **Caminho:** [Início](../README.md) / FAQ / FAQ Operacional
 <!-- NAVIGATION:END -->
@@ -220,7 +220,7 @@ O próximo capítulo apresenta as principais dúvidas relacionadas à segurança
 ### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
-- [README](../06-POR-QUE-CONNECTTEF/README.md)
+- [README](../06-FAQ-ARQUITETURAL.md)
 ---
-**Navegação:** [Anterior](04-FAQ-WHITE-LABEL.md) | [Início](../README.md) | [Próximo](../06-POR-QUE-CONNECTTEF/README.md)
+**Navegação:** [Anterior](04-FAQ-WHITE-LABEL.md) | [Início](../README.md) | [Próximo](06-FAQ-ARQUITERUAL.md)
 <!-- NAVIGATION_FOOTER:END -->

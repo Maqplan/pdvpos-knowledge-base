@@ -2,97 +2,99 @@
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](10-O-QUE-E-API-LOCAL.md) | [Próximo](12-GLOSSARIO.md)
 ---
-> **Caminho:** [Início](../README.md) / Conceitos / O que e API Rest
+> **Caminho:** [Início](../README.md) / Conceitos / O que é API REST
 <!-- NAVIGATION:END -->
 
-# O que � a API REST?
+# O que é a API REST?
 
-A API REST � a principal interface de integra��o do ConnectTEF para aplica��es modernas.
+A API REST é a principal interface de integração do ConnectTEF para aplicações modernas.
 
-Ela permite que sistemas ERP, PDVs, aplica��es Web, aplicativos m�veis e servi�os em nuvem se comuniquem com a plataforma utilizando o protocolo HTTP e formatos padronizados como JSON.
+Ela permite que sistemas ERP, PDVs, aplicações Web, aplicativos móveis e serviços em nuvem se comuniquem com a plataforma utilizando o protocolo HTTP e formatos padronizados como JSON.
 
-Por meio dessa interface, o sistema realiza solicita��es ao ConnectTEF, que assume toda a responsabilidade pela comunica��o com o ecossistema de pagamentos.
+Por meio dessa interface, o sistema realiza solicitações ao ConnectTEF, que assume toda a responsabilidade pela comunicação com o ecossistema de pagamentos.
 
 ---
 
 # Objetivo
 
-Apresentar o conceito de API REST, explicar seu funcionamento e demonstrar por que essa � a principal forma de integra��o recomendada para novos projetos.
+Apresentar o conceito de API REST, explicar seu funcionamento e demonstrar por que essa é a principal forma de integração recomendada para novos projetos.
 
 ---
 
 # O problema
 
-� medida que os sistemas evolu�ram para arquiteturas distribu�das, aplica��es Web e plataformas SaaS, tornou-se necess�rio um modelo de comunica��o simples, padronizado e independente da linguagem de programa��o utilizada.
+À medida que os sistemas evoluíram para arquiteturas distribuídas, aplicações Web e plataformas SaaS, tornou-se necessário um modelo de comunicação simples, padronizado e independente da linguagem de programação utilizada.
 
-Criar bibliotecas espec�ficas para cada plataforma ou fabricante aumentaria significativamente o esfor�o de desenvolvimento e manuten��o.
+Criar bibliotecas específicas para cada plataforma ou fabricante aumentaria significativamente o esforço de desenvolvimento e manutenção.
 
-A API REST resolve esse problema utilizando protocolos amplamente adotados pela ind�stria.
+A API REST resolve esse problema utilizando protocolos amplamente adotados pela indústria.
 
 ---
 
 # Como funciona?
 
-O sistema realiza requisi��es HTTP para a API do ConnectTEF.
+O sistema realiza requisições HTTP para a API do ConnectTEF.
 
-A plataforma interpreta a solicita��o, executa a opera��o necess�ria e retorna uma resposta estruturada.
+A plataforma interpreta a solicitação, executa a operação necessária e retorna uma resposta estruturada.
 
 ```text
-ERP / PDV / Aplica��o
+ERP / PDV / Aplicação
 
-          �
+          │
+
+          ▼
 
      HTTP + JSON
 
-          �
+          │
 
-          ?
+          ▼
 
-     API REST
+      API REST
 
-          �
+          │
 
-          ?
+          ▼
 
      ConnectTEF
 
-          �
+          │
 
-          ?
+          ▼
 
       SmartPOS
 
-          �
+          │
 
-          ?
+          ▼
 
 Ecossistema de Pagamentos
 ```
 
-Para a aplica��o, toda a comunica��o ocorre atrav�s de chamadas HTTP.
+Para a aplicação, toda a comunicação ocorre através de chamadas HTTP.
 
 ---
 
 # Por que utilizar uma API REST?
 
-A API REST foi projetada para oferecer uma integra��o moderna, independente da tecnologia utilizada pelo sistema.
+A API REST foi projetada para oferecer uma integração moderna, independente da tecnologia utilizada pelo sistema.
 
-Ela pode ser consumida por aplica��es desenvolvidas em diferentes linguagens e plataformas, permitindo que o ConnectTEF seja integrado a diversos tipos de solu��o.
+Ela pode ser consumida por aplicações desenvolvidas em diferentes linguagens e plataformas, permitindo que o ConnectTEF seja integrado a diversos tipos de solução.
 
 ---
 
 # Quando utilizar?
 
-A API REST � recomendada quando:
+A API REST é recomendada quando:
 
-- o sistema � Web;
-- a aplica��o � SaaS;
-- existem m�ltiplas lojas ou filiais;
-- a arquitetura � baseada em servi�os;
-- deseja-se integra��o multiplataforma;
-- o sistema utiliza HTTP como padr�o de comunica��o.
+- o sistema é Web;
+- a aplicação é SaaS;
+- existem múltiplas lojas ou filiais;
+- a arquitetura é baseada em serviços;
+- deseja-se integração multiplataforma;
+- o sistema utiliza HTTP como padrão de comunicação.
 
-Tamb�m pode ser utilizada por aplica��es Desktop e Mobile, conforme a arquitetura adotada.
+Também pode ser utilizada por aplicações Desktop e Mobile, conforme a arquitetura adotada.
 
 ---
 
@@ -100,11 +102,11 @@ Tamb�m pode ser utilizada por aplica��es Desktop e Mobile, conforme a arqu
 
 | API REST | API Local |
 |-----------|-----------|
-| Comunica��o via HTTP | Comunica��o HTTP local |
-| Pode operar em ambientes distribu�dos | Indicada para ambientes locais |
-| Ideal para SaaS e aplica��es Web | Ideal para sistemas Desktop |
-| Escal�vel | Baixa lat�ncia em redes locais |
-| Acess�vel por diferentes plataformas | Voltada para integra��es no ambiente do cliente |
+| Comunicação via HTTP | Comunicação HTTP local |
+| Pode operar em ambientes distribuídos | Indicada para ambientes locais |
+| Ideal para SaaS e aplicações Web | Ideal para sistemas Desktop |
+| Escalável | Baixa latência em redes locais |
+| Acessível por diferentes plataformas | Voltada para integrações no ambiente do cliente |
 
 Ambas utilizam conceitos semelhantes, mas atendem necessidades distintas.
 
@@ -115,81 +117,81 @@ Ambas utilizam conceitos semelhantes, mas atendem necessidades distintas.
 | API REST | Provider Android |
 |-----------|------------------|
 | Multiplataforma | Exclusivo para Android |
-| Comunica��o HTTP | Comunica��o nativa do Android |
-| Aplica��es Web, Desktop e Mobile | Aplica��es Android no mesmo dispositivo |
-| Maior flexibilidade | Menor lat�ncia local |
+| Comunicação HTTP | Comunicação nativa do Android |
+| Aplicações Web, Desktop e Mobile | Aplicações Android no mesmo dispositivo |
+| Maior flexibilidade | Menor latência local |
 
 ---
 
-# Benef�cios
+# Benefícios
 
-Ao utilizar a API REST do ConnectTEF, sua aplica��o obt�m:
+Ao utilizar a API REST do ConnectTEF, sua aplicação obtém:
 
-- integra��o padronizada;
-- independ�ncia da linguagem de programa��o;
-- arquitetura escal�vel;
-- comunica��o baseada em HTTP e JSON;
-- evolu��o cont�nua da plataforma;
-- compatibilidade com diferentes ambientes de execu��o.
+- integração padronizada;
+- independência da linguagem de programação;
+- arquitetura escalável;
+- comunicação baseada em HTTP e JSON;
+- evolução contínua da plataforma;
+- compatibilidade com diferentes ambientes de execução.
 
 ---
 
 # O papel do ConnectTEF
 
-A API REST � apenas uma das interfaces de entrada da plataforma.
+A API REST é apenas uma das interfaces de entrada da plataforma.
 
-Ap�s receber a solicita��o, o ConnectTEF:
+Após receber a solicitação, o ConnectTEF:
 
-- interpreta a opera��o;
+- interpreta a operação;
 - valida os dados recebidos;
 - comunica-se com os SmartPOS homologados;
-- acompanha a transa��o;
+- acompanha a transação;
 - retorna uma resposta padronizada.
 
 Toda a complexidade permanece encapsulada na plataforma.
 
 ---
 
-# Quando N�O utilizar?
+# Quando NÃO utilizar?
 
-A API REST pode n�o ser a melhor escolha quando:
+A API REST pode não ser a melhor escolha quando:
 
-- a comunica��o ocorre exclusivamente dentro de um SmartPOS Android;
-- deseja-se integra��o totalmente local entre aplica��es Android;
-- existe um cen�rio onde Provider ou Intent oferecem melhor desempenho e menor acoplamento.
+- a comunicação ocorre exclusivamente dentro de um SmartPOS Android;
+- deseja-se integração totalmente local entre aplicações Android;
+- existe um cenário onde Provider ou Intent oferecem melhor desempenho e menor acoplamento.
 
-Nesses casos, recomenda-se avaliar as demais formas de integra��o disponibilizadas pelo ConnectTEF.
+Nesses casos, recomenda-se avaliar as demais formas de integração disponibilizadas pelo ConnectTEF.
 
 ---
 
 # Filosofia da API REST
 
-A API REST do ConnectTEF n�o foi criada apenas para processar pagamentos.
+A API REST do ConnectTEF não foi criada apenas para processar pagamentos.
 
-Ela foi projetada para ser a porta de entrada da plataforma, permitindo acesso padronizado aos recursos do ecossistema, como pagamentos, cancelamentos, impress�o, marketing, opera��o offline, captura de dados e demais funcionalidades disponibilizadas pelo ConnectTEF.
+Ela foi projetada para ser a porta de entrada da plataforma, permitindo acesso padronizado aos recursos do ecossistema, como pagamentos, cancelamentos, impressão, marketing, operação offline, captura de dados e demais funcionalidades disponibilizadas pelo ConnectTEF.
 
-Essa abordagem permite que novas funcionalidades sejam incorporadas � plataforma sem alterar o modelo de integra��o utilizado pelo sistema.
+Essa abordagem permite que novas funcionalidades sejam incorporadas à plataforma sem alterar o modelo de integração utilizado pelo sistema.
 
 ---
 
 # Resumo
 
-A API REST � a principal interface de integra��o do ConnectTEF para aplica��es modernas.
+A API REST é a principal interface de integração do ConnectTEF para aplicações modernas.
 
-Baseada em HTTP e JSON, ela permite integrar sistemas de diferentes tecnologias a uma plataforma �nica, desacoplando o ERP da complexidade do ecossistema de pagamentos e oferecendo uma arquitetura preparada para evolu��o cont�nua.
+Baseada em HTTP e JSON, ela permite integrar sistemas de diferentes tecnologias a uma plataforma única, desacoplando o ERP da complexidade do ecossistema de pagamentos e oferecendo uma arquitetura preparada para evolução contínua.
 
 ---
 
-# Pr�ximo cap�tulo
+# Próximo capítulo
 
-Agora que voc� conhece os principais conceitos utilizados pelo ConnectTEF, consulte o **Gloss�rio** para compreender os termos utilizados ao longo da documenta��o e facilitar a navega��o pelos pr�ximos m�dulos.
+Agora que você conhece os principais conceitos utilizados pelo ConnectTEF, consulte o **Glossário** para compreender os termos utilizados ao longo da documentação e facilitar a navegação pelos próximos módulos.
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
 ### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
-- [Glossario](12-GLOSSARIO.md)
+- [Glossário](12-GLOSSARIO.md)
 ---
 **Navegação:** [Anterior](10-O-QUE-E-API-LOCAL.md) | [Início](../README.md) | [Próximo](12-GLOSSARIO.md)
 <!-- NAVIGATION_FOOTER:END -->

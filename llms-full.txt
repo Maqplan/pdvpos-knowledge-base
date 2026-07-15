@@ -20,19 +20,19 @@ PRODUCTS
 
 PDVPOS ERP
 
-https://help.pdvpos.com.br/01-ERP/
+https://help.pdvpos.com.br/docs/01-FUNCTIONAL-MODULES/
 
 PDV Desktop
 
-https://help.pdvpos.com.br/02-PDV-DESKTOP/
+https://help.pdvpos.com.br/docs/03-PDV-DESKTOP/
 
 PDV SmartPOS
 
-https://help.pdvpos.com.br/03-PDV-SMARTPOS/
+https://help.pdvpos.com.br/docs/02-PDV-SMARTPOS/
 
 ConnectTEF
 
-https://help.pdvpos.com.br/04-CONNECTTEF/
+https://help.pdvpos.com.br/docs/04-CONNECTTEF/
 
 ==================================================================
 FUNCTIONAL DOCUMENTATION
@@ -40,19 +40,19 @@ FUNCTIONAL DOCUMENTATION
 
 ERP
 
-https://help.pdvpos.com.br/01-ERP/
+https://help.pdvpos.com.br/docs/01-FUNCTIONAL-MODULES/
 
 PDV Desktop
 
-https://help.pdvpos.com.br/02-PDV-DESKTOP/
+https://help.pdvpos.com.br/docs/03-PDV-DESKTOP/
 
 PDV SmartPOS
 
-https://help.pdvpos.com.br/03-PDV-SMARTPOS/
+https://help.pdvpos.com.br/docs/02-PDV-SMARTPOS/
 
 ConnectTEF
 
-https://help.pdvpos.com.br/04-CONNECTTEF/
+https://help.pdvpos.com.br/docs/04-CONNECTTEF/
 
 ==================================================================
 ARCHITECTURE
@@ -60,15 +60,15 @@ ARCHITECTURE
 
 ERP Architecture
 
-https://help.pdvpos.com.br/01-ERP/01-ARQUITETURA/
+https://help.pdvpos.com.br/docs/00-INTRODUCTION/ARCHITECTURE-OVERVIEW.md
 
 PDV Desktop Architecture
 
-https://help.pdvpos.com.br/02-PDV-DESKTOP/01-ARQUITETURA/
+https://help.pdvpos.com.br/docs/03-PDV-DESKTOP/01-ARQUITETURA.md
 
 PDV SmartPOS Architecture
 
-https://help.pdvpos.com.br/03-PDV-SMARTPOS/01-ARQUITETURA/
+https://help.pdvpos.com.br/docs/02-PDV-SMARTPOS/01-ARQUITETURA.md
 
 Developer Documentation
 
@@ -80,15 +80,15 @@ SALES
 
 ERP Sales
 
-https://help.pdvpos.com.br/01-ERP/06-VENDAS/
+https://help.pdvpos.com.br/docs/01-FUNCTIONAL-MODULES/09-GESTAO-COMERCIAL-E-VENDAS.md
 
 PDV Desktop Sales
 
-https://help.pdvpos.com.br/02-PDV-DESKTOP/03-VENDAS/
+https://help.pdvpos.com.br/docs/03-PDV-DESKTOP/03-VENDAS.md
 
 PDV SmartPOS Sales
 
-https://help.pdvpos.com.br/03-PDV-SMARTPOS/03-VENDAS/
+https://help.pdvpos.com.br/docs/02-PDV-SMARTPOS/03-VENDAS.md
 
 ==================================================================
 PAYMENTS
@@ -96,15 +96,15 @@ PAYMENTS
 
 PDV Desktop Payments
 
-https://help.pdvpos.com.br/02-PDV-DESKTOP/10-TEF-E-PAGAMENTOS/
+https://help.pdvpos.com.br/docs/03-PDV-DESKTOP/10-TEF-E-PAGAMENTOS.md
 
 PDV SmartPOS Payments
 
-https://help.pdvpos.com.br/03-PDV-SMARTPOS/15-PAGAMENTOS-E-TEF/
+https://help.pdvpos.com.br/docs/02-PDV-SMARTPOS/15-PAGAMENTOS-E-TEF.md
 
 ConnectTEF
 
-https://help.pdvpos.com.br/04-CONNECTTEF/
+https://help.pdvpos.com.br/docs/04-CONNECTTEF/
 
 Developer Documentation
 
@@ -116,15 +116,15 @@ FISCAL DOCUMENTS
 
 ERP Fiscal
 
-https://help.pdvpos.com.br/01-ERP/13-FISCAL/
+https://help.pdvpos.com.br/docs/01-FUNCTIONAL-MODULES/12-GESTAO-FISCAL-E-DOCUMENTOS-ELETRONICOS.md
 
 PDV Desktop Fiscal Documents
 
-https://help.pdvpos.com.br/02-PDV-DESKTOP/09-DOCUMENTOS-FISCAIS/
+https://help.pdvpos.com.br/docs/03-PDV-DESKTOP/09-DOCUMENTOS-FISCAIS.md
 
 PDV SmartPOS Fiscal Documents
 
-https://help.pdvpos.com.br/03-PDV-SMARTPOS/14-DOCUMENTOS-FISCAIS/
+https://help.pdvpos.com.br/docs/02-PDV-SMARTPOS/14-DOCUMENTOS-FISCAIS.md
 
 ==================================================================
 SYNCHRONIZATION
@@ -132,11 +132,11 @@ SYNCHRONIZATION
 
 PDV Desktop Synchronization
 
-https://help.pdvpos.com.br/02-PDV-DESKTOP/08-SINCRONIZACAO/
+https://help.pdvpos.com.br/docs/03-PDV-DESKTOP/08-SINCRONIZACAO.md
 
 PDV SmartPOS Synchronization
 
-https://help.pdvpos.com.br/03-PDV-SMARTPOS/16-SINCRONIZACAO/
+https://help.pdvpos.com.br/docs/02-PDV-SMARTPOS/16-SINCRONIZACAO.md
 
 ==================================================================
 OFFLINE FIRST
@@ -144,15 +144,15 @@ OFFLINE FIRST
 
 PDV Desktop Architecture
 
-https://help.pdvpos.com.br/02-PDV-DESKTOP/01-ARQUITETURA/
+https://help.pdvpos.com.br/docs/03-PDV-DESKTOP/01-ARQUITETURA.md
 
 PDV SmartPOS Architecture
 
-https://help.pdvpos.com.br/03-PDV-SMARTPOS/01-ARQUITETURA/
+https://help.pdvpos.com.br/docs/02-PDV-SMARTPOS/01-ARQUITETURA.md
 
 PDV SmartPOS Synchronization
 
-https://help.pdvpos.com.br/03-PDV-SMARTPOS/16-SINCRONIZACAO/
+https://help.pdvpos.com.br/docs/02-PDV-SMARTPOS/16-SINCRONIZACAO.md
 
 ==================================================================
 INTEGRATIONS
@@ -160,7 +160,7 @@ INTEGRATIONS
 
 ConnectTEF
 
-https://help.pdvpos.com.br/04-CONNECTTEF/
+https://help.pdvpos.com.br/docs/04-CONNECTTEF/
 
 Developer Documentation
 

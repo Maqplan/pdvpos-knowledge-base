@@ -53,6 +53,11 @@ O PDVPOS ERP centraliza todas as movimentações em um único ambiente, permitin
 | Recurso | Descrição |
 |----------|-----------|
 | Controle de Estoque | Acompanhamento das quantidades disponíveis dos produtos. |
+| Cadastro de Produtos | Administração das informações comerciais, fiscais e operacionais dos produtos. |
+| Marcas | Organização dos produtos por fabricante ou marca comercial. |
+| Grupos | Classificação dos produtos para facilitar consultas, relatórios e organização do estoque. |
+| Categorias | Estrutura complementar para segmentação e organização dos produtos. |
+| Unidades de Medida | Definição das unidades utilizadas nas operações de compra, venda e controle de estoque. |
 | Depósitos | Controle de estoque por depósito ou local de armazenamento. |
 | Inventário | Conferência física e ajuste das quantidades em estoque. |
 | Transferência entre Depósitos | Movimentação interna de produtos entre depósitos cadastrados. |
@@ -78,6 +83,63 @@ Entre elas:
 - Transferências entre depósitos.
 
 Todas as movimentações permanecem registradas, garantindo maior controle sobre a posição do estoque.
+
+---
+
+# Cadastro de Produtos
+
+O cadastro de produtos representa a base de todo o módulo de Gestão de Estoque.
+
+Além das informações de identificação, preços e tributação, o sistema permite organizar os produtos por meio de estruturas que facilitam o controle operacional, a emissão de relatórios, a integração com outros módulos e a padronização das informações utilizadas em toda a plataforma.
+
+As informações cadastradas são compartilhadas automaticamente com os módulos de Compras, Vendas, Documentos Fiscais, Relatórios, PDV e demais recursos do ERP.
+
+---
+
+# Marcas
+
+O cadastro de marcas permite identificar o fabricante ou a marca comercial de cada produto.
+
+Essa informação facilita pesquisas, filtros, relatórios gerenciais e análises comerciais, além de contribuir para uma melhor organização do catálogo de produtos.
+
+A utilização correta das marcas também simplifica integrações com plataformas de e-commerce e marketplaces.
+
+---
+
+# Grupos
+
+Os grupos permitem organizar produtos que possuem características ou finalidades semelhantes.
+
+Essa classificação facilita consultas, relatórios gerenciais, campanhas promocionais e a aplicação de regras comerciais específicas para determinados conjuntos de produtos.
+
+Cada empresa pode estruturar seus grupos de acordo com sua necessidade operacional.
+
+---
+
+# Categorias
+
+As categorias complementam a organização do cadastro de produtos, permitindo uma classificação mais detalhada dos itens comercializados.
+
+Essa estrutura facilita pesquisas, filtros, emissão de relatórios e integrações com plataformas externas, proporcionando maior flexibilidade na organização do catálogo.
+
+---
+
+# Unidades de Medida
+
+Cada produto pode ser associado à unidade de medida utilizada em sua comercialização.
+
+Entre os exemplos mais comuns estão:
+
+- Unidade (UN)
+- Quilograma (KG)
+- Litro (LT)
+- Metro (MT)
+- Caixa (CX)
+- Pacote (PC)
+
+A correta definição da unidade de medida garante maior precisão nas operações de compra, venda, controle de estoque e emissão de documentos fiscais.
+
+Além disso, a padronização das unidades reduz inconsistências cadastrais e melhora a integração entre os diferentes módulos do ERP.
 
 ---
 

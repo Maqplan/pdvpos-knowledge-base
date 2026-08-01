@@ -20,8 +20,8 @@ Este documento apresenta uma visão resumida de todos os módulos disponíveis n
 
 | Documento | Descrição |
 |------------|-----------|
-| 03-GESTAO-DE-EMPRESAS.md | Administração das empresas, filiais, segmentos e configurações gerais da plataforma. |
-| 04-GESTAO-DE-USUARIOS-E-PERMISSOES.md | Controle de usuários, perfis de acesso, permissões granulares e segurança operacional. |
+| [03-GESTAO-DE-EMPRESAS](../01-FUNCTIONAL-MODULES/03-GESTAO-DE-EMPRESAS.md) | Administração das empresas, filiais, segmentos e configurações gerais da plataforma. |
+| [04-GESTAO-DE-USUARIOS-E-PERMISSOES](../01-FUNCTIONAL-MODULES/04-GESTAO-DE-USUARIOS-E-PERMISSOES.md) | Controle de usuários, perfis de acesso, permissões granulares e segurança operacional. |
 
 ---
 
@@ -29,8 +29,8 @@ Este documento apresenta uma visão resumida de todos os módulos disponíveis n
 
 | Documento | Descrição |
 |------------|-----------|
-| 05-GESTAO-DE-CLIENTES.md | Cadastro de clientes, relacionamento comercial e histórico financeiro. |
-| 06-GESTAO-DE-PRODUTOS-E-SERVICOS.md | Gestão completa de produtos, serviços, preços, tributação, grades, estoque e integração comercial. |
+| [05-GESTAO-DE-CLIENTES](../01-FUNCTIONAL-MODULES/05-GESTAO-DE-CLIENTES.md) | Cadastro de clientes, relacionamento comercial e histórico financeiro. |
+| [06-GESTAO-DE-PRODUTOS-E-SERVICOS](../01-FUNCTIONAL-MODULES/06-GESTAO-DE-PRODUTOS-E-SERVICOS.md) | Gestão completa de produtos, serviços, preços, tributação, grades, estoque e integração comercial. |
 
 ---
 
@@ -38,9 +38,9 @@ Este documento apresenta uma visão resumida de todos os módulos disponíveis n
 
 | Documento | Descrição |
 |------------|-----------|
-| 07-GESTAO-DE-ESTOQUE.md | Controle de estoque, depósitos, inventários, lotes, etiquetas e armazenagem. |
-| 08-GESTAO-DE-COMPRAS.md | Pedido de compra, entrada de NF-e, importação XML, custos e abastecimento. |
-| 09-GESTAO-COMERCIAL-E-VENDAS.md | Orçamentos, pedidos, vendas, faturamento, promoções, vendedores e PDVs. |
+| [07-GESTAO-DE-ESTOQUE](../01-FUNCTIONAL-MODULES/07-GESTAO-DE-ESTOQUE.md) | Controle de estoque, depósitos, inventários, lotes, etiquetas e armazenagem. |
+| [08-GESTAO-DE-COMPRAS](../01-FUNCTIONAL-MODULES/08-GESTAO-DE-COMPRAS.md) | Pedido de compra, entrada de NF-e, importação XML, custos e abastecimento. |
+| [09-GESTAO-COMERCIAL-E-VENDAS](../01-FUNCTIONAL-MODULES/09-GESTAO-COMERCIAL-E-VENDAS.md) | Orçamentos, pedidos, vendas, faturamento, promoções, vendedores e PDVs. |
 
 ---
 
@@ -48,8 +48,8 @@ Este documento apresenta uma visão resumida de todos os módulos disponíveis n
 
 | Documento | Descrição |
 |------------|-----------|
-| 10-GESTAO-FINANCEIRA.md | Receitas, despesas, fluxo de caixa, contas bancárias, centros de custo e DRE. |
-| 11-GESTAO-DE-COBRANCAS.md | Boletos, PIX, cartões, links de pagamento, gateways e integração bancária. |
+| [10-GESTAO-FINANCEIRA](../01-FUNCTIONAL-MODULES/10-GESTAO-FINANCEIRA.md) | Receitas, despesas, fluxo de caixa, contas bancárias, centros de custo e DRE. |
+| [11-GESTAO-DE-COBRANCAS](../01-FUNCTIONAL-MODULES/11-GESTAO-DE-COBRANCAS.md) | Boletos, PIX, cartões, links de pagamento, gateways e integração bancária. |
 
 ---
 
@@ -57,9 +57,9 @@ Este documento apresenta uma visão resumida de todos os módulos disponíveis n
 
 | Documento | Descrição |
 |------------|-----------|
-| 12-GESTAO-FISCAL-E-DOCUMENTOS-ELETRONICOS.md | NF-e, NFC-e, NFS-e, Manifestação do Destinatário e documentos fiscais eletrônicos. |
-| 13-GESTAO-DA-REFORMA-TRIBUTARIA.md | Configuração hierárquica da Reforma Tributária, Perfis Tributários e assistente de implantação. |
-| 14-GESTAO-CONTABIL.md | Portal da Contabilidade, compartilhamento automático de arquivos fiscais e integração com escritórios contábeis. |
+| [12-GESTAO-FISCAL-E-DOCUMENTOS-ELETRONICOS](../01-FUNCTIONAL-MODULES/12-GESTAO-FISCAL-E-DOCUMENTOS-ELETRONICOS.md) | NF-e, NFC-e, NFS-e, Manifestação do Destinatário e documentos fiscais eletrônicos. |
+| [13-GESTAO-DA-REFORMA-TRIBUTARIA](../01-FUNCTIONAL-MODULES/13-GESTAO-DA-REFORMA-TRIBUTARIA.md) | Configuração hierárquica da Reforma Tributária, Perfis Tributários e assistente de implantação. |
+| [14-GESTAO-CONTABIL](../01-FUNCTIONAL-MODULES/14-GESTAO-CONTABIL.md) | Portal da Contabilidade, compartilhamento automático de arquivos fiscais e integração com escritórios contábeis. |
 
 ---
 
@@ -67,7 +67,7 @@ Este documento apresenta uma visão resumida de todos os módulos disponíveis n
 
 | Documento | Descrição |
 |------------|-----------|
-| 15-GESTAO-DE-SERVICOS-E-ORDENS-DE-SERVICO.md | Instalações, montagens, assistência técnica e Ordens de Serviço integradas às vendas. |
+| [15-GESTAO-DE-SERVICOS-E-ORDENS-DE-SERVICO](../01-FUNCTIONAL-MODULES/15-GESTAO-DE-SERVICOS-E-ORDENS-DE-SERVICO.md) | Instalações, montagens, assistência técnica e Ordens de Serviço integradas às vendas. |
 
 ---
 
@@ -75,7 +75,7 @@ Este documento apresenta uma visão resumida de todos os módulos disponíveis n
 
 | Documento | Descrição |
 |------------|-----------|
-| 16-INTEGRACOES.md | APIs, Webhooks, SmartPOS, PDVs, ConnectTEF, e-commerce, marketplaces e parceiros. |
+| [16-INTEGRACOES](../01-FUNCTIONAL-MODULES/16-INTEGRACOES.md) | APIs, Webhooks, SmartPOS, PDVs, ConnectTEF, e-commerce, marketplaces e parceiros. |
 
 ---
 
@@ -83,7 +83,7 @@ Este documento apresenta uma visão resumida de todos os módulos disponíveis n
 
 | Documento | Descrição |
 |------------|-----------|
-| 17-RELATORIOS-E-INDICADORES.md | Dashboard, indicadores, consultas operacionais e relatórios gerenciais. |
+| [17-RELATORIOS-E-INDICADORES](../01-FUNCTIONAL-MODULES/17-RELATORIOS-E-INDICADORES.md) | Dashboard, indicadores, consultas operacionais e relatórios gerenciais. |
 
 ---
 

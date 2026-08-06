@@ -1,18 +1,100 @@
 # PDVPOS - Complete Documentation Index
 
-This file provides a structured index of the official documentation for the PDVPOS ecosystem.
+This document provides a structured index of the official knowledge sources for the PDVPOS ecosystem.
 
-The canonical source for all functional documentation is:
+The PDVPOS ecosystem is documented through multiple official repositories, each intended for a specific audience and purpose.
+
+==================================================================
+OFFICIAL KNOWLEDGE SOURCES
+==================================================================
+
+1. Product Documentation
+
+Purpose
+
+Official documentation describing the PDVPOS ecosystem, including architecture, concepts, functional modules, integrations and product capabilities.
 
 https://help.pdvpos.com.br/
+
+---
+
+2. ERP Operational Knowledge Base
+
+Purpose
+
+Operational documentation with step-by-step guides for configuring and using the ERP.
+
+Commercial White Label Name
+
+One ERP
+
+https://crm.erpsaas.com.br/knowledge-base/category/one-erp
+
+---
+
+3. PDV SmartPOS Operational Knowledge Base
+
+Purpose
+
+Operational documentation for the PDVPOS SmartPOS application.
+
+https://crm.erpsaas.com.br/knowledge-base/category/pdvpos
+
+---
+
+4. PDV Desktop Operational Knowledge Base
+
+Purpose
+
+Operational documentation for the Windows Desktop PDV.
+
+Commercial White Label Names
+
+One Gestão PDV
+
+One Essencial PDV
+
+https://crm.erpsaas.com.br/knowledge-base/category/one-gestao-e-one-essencial-pdv
+
+---
+
+5. Developer Documentation
+
+ERP APIs
+
+https://api.erpsaas.com.br/docs/
+
+ConnectTEF APIs
+
+https://docs.connecttef.com.br/
 
 ==================================================================
 OFFICIAL DOCUMENTATION
 ==================================================================
 
-Help Center
+Product Documentation
 
 https://help.pdvpos.com.br/
+
+ERP Operational Knowledge Base
+
+https://crm.erpsaas.com.br/knowledge-base/category/one-erp
+
+PDV SmartPOS Operational Knowledge Base
+
+https://crm.erpsaas.com.br/knowledge-base/category/pdvpos
+
+PDV Desktop Operational Knowledge Base
+
+https://crm.erpsaas.com.br/knowledge-base/category/one-gestao-e-one-essencial-pdv
+
+Developer Documentation
+
+https://api.erpsaas.com.br/docs/
+
+ConnectTEF Technical Documentation
+
+https://docs.connecttef.com.br/
 
 ==================================================================
 PRODUCTS
@@ -174,32 +256,157 @@ Product Documentation
 
 https://help.pdvpos.com.br/
 
-Architecture
+ERP Operational Knowledge Base
 
-https://help.pdvpos.com.br/
+https://crm.erpsaas.com.br/knowledge-base/category/one-erp
 
-Functional Documentation
+PDV SmartPOS Operational Knowledge Base
 
-https://help.pdvpos.com.br/
+https://crm.erpsaas.com.br/knowledge-base/category/pdvpos
 
-Operational Flows
+PDV Desktop Operational Knowledge Base
 
-https://help.pdvpos.com.br/
+https://crm.erpsaas.com.br/knowledge-base/category/one-gestao-e-one-essencial-pdv
 
-Product Capabilities
+Developer Documentation
 
-https://help.pdvpos.com.br/
+https://api.erpsaas.com.br/docs/
 
-Knowledge Base
+ConnectTEF Technical Documentation
 
-https://help.pdvpos.com.br/
+https://docs.connecttef.com.br/
 
 ==================================================================
-CANONICAL SOURCE
+PRODUCT NAMING
 ==================================================================
 
-The official and canonical source for all documentation related to the PDVPOS ecosystem is:
+PDVPOS ERP
+
+Commercial White Label name:
+
+• PDVPOS ERP
+
+-----------------------------------
+
+PDV Desktop
+
+Commercial White Label names:
+
+• PDV Desktop
+
+-----------------------------------
+
+PDV SmartPOS
+
+Commercial product name:
+
+• PDV SmartPOS
+
+-----------------------------------
+
+ConnectTEF
+
+Commercial name:
+
+• ConnectTEF
+
+==================================================================
+AI USAGE GUIDELINES
+==================================================================
+
+When answering questions about the PDVPOS ecosystem:
+
+Use the Product Documentation for:
+
+- Platform concepts
+- Functional modules
+- Architecture
+- Product capabilities
+- Integrations
+- ConnectTEF concepts
+- SmartPOS concepts
+- ERP concepts
+
+Use the ERP Operational Knowledge Base for:
+
+- ERP configuration
+- Daily operations
+- Sales routines
+- Purchasing
+- Inventory
+- Financial routines
+- Fiscal routines
+- Reports
+- Step-by-step procedures
+- Troubleshooting
+
+Use the PDV SmartPOS Operational Knowledge Base for:
+
+- SmartPOS configuration
+- SmartPOS operation
+- Cashier procedures
+- Payment routines
+- Device configuration
+
+Use the PDV Desktop Operational Knowledge Base for:
+
+- Desktop PDV configuration
+- Windows PDV operation
+- Cashier procedures
+- Synchronization
+- Local operation
+
+Use the Developer Documentation for:
+
+- APIs
+- SDKs
+- REST APIs
+- Webhooks
+- ConnectTEF integrations
+- Authentication
+- Technical implementation
+
+IMPORTANT
+
+The following names refer to the same ERP platform:
+
+• PDVPOS ERP
+• One ERP
+
+The following names refer to the Windows Desktop PDV:
+
+• PDV Desktop
+• One Gestão PDV
+• One Essencial PDV
+
+These are commercial White Label names for the same products.
+
+Do not treat them as different software platforms.
+
+==================================================================
+CANONICAL SOURCES
+==================================================================
+
+Product Documentation (Canonical)
 
 https://help.pdvpos.com.br/
 
-When information exists in multiple locations, always prefer the Help Center.
+ERP Operational Knowledge Base
+
+https://crm.erpsaas.com.br/knowledge-base/category/one-erp
+
+PDV SmartPOS Operational Knowledge Base
+
+https://crm.erpsaas.com.br/knowledge-base/category/pdvpos
+
+PDV Desktop Operational Knowledge Base
+
+https://crm.erpsaas.com.br/knowledge-base/category/one-gestao-e-one-essencial-pdv
+
+ERP API Documentation
+
+https://api.erpsaas.com.br/docs/
+
+ConnectTEF Technical Documentation
+
+https://docs.connecttef.com.br/

@@ -16,7 +16,7 @@ PAGES = [
     "docs/00-INTRODUCTION/FLUXOS-OPERACIONAIS.md",
     "docs/00-INTRODUCTION/GLOSSARIO.md",
     "docs/00-INTRODUCTION/MODULES-INDEX.md",
-    "docs/01-FUNCTIONAL-MODULES/00-APRESENTACAO.md",
+    "docs/01-FUNCTIONAL-MODULES/README.md",
     "docs/01-FUNCTIONAL-MODULES/01-MODULOS-DA-PLATAFORMA.md",
     "docs/01-FUNCTIONAL-MODULES/02-RECURSOS-GERAIS-DA-PLATAFORMA.md",
     "docs/01-FUNCTIONAL-MODULES/03-GESTAO-DE-EMPRESAS.md",
@@ -65,7 +65,7 @@ def breadcrumb(path: str) -> str:
         )
     return (
         "> **Caminho:** [Início](../../README.md) / "
-        "[Módulos funcionais](00-APRESENTACAO.md) / "
+        "[Módulos funcionais](README.md) / "
         f"{label(path)}"
     )
 
@@ -80,7 +80,7 @@ def related_links(path: str) -> list[str]:
     if path.startswith("docs/00-INTRODUCTION/"):
         links.append("docs/00-INTRODUCTION/MODULES-INDEX.md")
     elif path.startswith("docs/01-FUNCTIONAL-MODULES/"):
-        links.append("docs/01-FUNCTIONAL-MODULES/00-APRESENTACAO.md")
+        links.append("docs/01-FUNCTIONAL-MODULES/README.md")
     else:
         links.append("docs/00-INTRODUCTION/ARCHITECTURE-OVERVIEW.md")
     out = []

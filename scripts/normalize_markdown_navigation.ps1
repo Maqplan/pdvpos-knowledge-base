@@ -13,7 +13,7 @@ $pages = @(
   'docs/00-INTRODUCTION/FLUXOS-OPERACIONAIS.md',
   'docs/00-INTRODUCTION/GLOSSARIO.md',
   'docs/00-INTRODUCTION/MODULES-INDEX.md',
-  'docs/01-FUNCTIONAL-MODULES/00-APRESENTACAO.md',
+  'docs/01-FUNCTIONAL-MODULES/README.md',
   'docs/01-FUNCTIONAL-MODULES/01-MODULOS-DA-PLATAFORMA.md',
   'docs/01-FUNCTIONAL-MODULES/02-RECURSOS-GERAIS-DA-PLATAFORMA.md',
   'docs/01-FUNCTIONAL-MODULES/03-GESTAO-DE-EMPRESAS.md',
@@ -70,7 +70,7 @@ function Breadcrumb([string]$rel) {
   if ($rel.StartsWith('docs/00-INTRODUCTION/')) {
     return '> **Caminho:** [Inicio](../../README.md) / [Introducao](MODULES-INDEX.md) / ' + (Label $rel)
   }
-  return '> **Caminho:** [Inicio](../../README.md) / [Modulos funcionais](00-APRESENTACAO.md) / ' + (Label $rel)
+  return '> **Caminho:** [Inicio](../../README.md) / [Modulos funcionais](README.md) / ' + (Label $rel)
 }
 
 function Related([string]$rel) {
@@ -81,7 +81,7 @@ function Related([string]$rel) {
   if ($rel.StartsWith('docs/00-INTRODUCTION/')) {
     [void]$out.Add('docs/00-INTRODUCTION/MODULES-INDEX.md')
   } elseif ($rel.StartsWith('docs/01-FUNCTIONAL-MODULES/')) {
-    [void]$out.Add('docs/01-FUNCTIONAL-MODULES/00-APRESENTACAO.md')
+    [void]$out.Add('docs/01-FUNCTIONAL-MODULES/README.md')
   } else {
     [void]$out.Add('docs/00-INTRODUCTION/ARCHITECTURE-OVERVIEW.md')
   }

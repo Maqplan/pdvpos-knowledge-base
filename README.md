@@ -1,4 +1,4 @@
-﻿<!-- NAVIGATION:START -->
+<!-- NAVIGATION:START -->
 ---
 [README principal](README.md) | [Visao](VISION.md) | [Principios](PRINCIPLES.md) | [About](ABOUT.md)
 ---
@@ -55,7 +55,7 @@ docs/01-FUNCTIONAL-MODULES/
 
 | Documento | Descrição |
 |-----------|-----------|
-| [00 - Apresentação](docs/01-FUNCTIONAL-MODULES/00-APRESENTACAO.md) | Introdução aos módulos funcionais |
+| [00 - Apresentação](docs/01-FUNCTIONAL-MODULES/README.md) | Introdução aos módulos funcionais |
 | [01 - Módulos da Plataforma](docs/01-FUNCTIONAL-MODULES/01-MODULOS-DA-PLATAFORMA.md) | Visão geral dos módulos disponíveis |
 | [02 - Recursos Gerais](docs/01-FUNCTIONAL-MODULES/02-RECURSOS-GERAIS-DA-PLATAFORMA.md) | Recursos compartilhados por toda a plataforma |
 | [03 - Gestão de Empresas](docs/01-FUNCTIONAL-MODULES/03-GESTAO-DE-EMPRESAS.md) | Empresas, filiais e operação multiempresa |

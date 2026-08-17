@@ -1,8 +1,8 @@
-﻿<!-- NAVIGATION:START -->
+<!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [Modules Intro](00-APRESENTACAO.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+[README principal](../../README.md) | [Modules Intro](README.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
 ---
-> **Breadcrumbs:** [Inicio](../../README.md) / [Modulos](00-APRESENTACAO.md) / 
+> **Breadcrumbs:** [Inicio](../../README.md) / [Modulos](README.md) / 
 12-GESTAO-FISCAL-E-DOCUMENTOS-ELETRONICOS
 <!-- NAVIGATION:END -->
 
@@ -322,8 +322,8 @@ Conheça como o PDVPOS ERP foi preparado para atender às mudanças da Reforma T
 ---
 ### Veja tambem
 - [README](../../README.md)
-- [Modules Intro](00-APRESENTACAO.md)
+- [Modules Intro](README.md)
 - [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
 ---
-**Navegacao:** [Inicio](../../README.md) | [Modulos](00-APRESENTACAO.md)
+**Navegacao:** [Inicio](../../README.md) | [Modulos](README.md)
 <!-- NAVIGATION_FOOTER:END -->

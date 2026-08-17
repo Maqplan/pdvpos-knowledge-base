@@ -73,9 +73,9 @@ foreach ($rel in $allFiles) {
     $header = @(
       '<!-- NAVIGATION:START -->',
       '---',
-      '[README principal](../../README.md) | [Modules Intro](00-APRESENTACAO.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)',
+      '[README principal](../../README.md) | [Modules Intro](README.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)',
       '---',
-      '> **Breadcrumbs:** [Inicio](../../README.md) / [Modulos](00-APRESENTACAO.md) / ' + [System.IO.Path]::GetFileNameWithoutExtension($rel),
+      '> **Breadcrumbs:** [Inicio](../../README.md) / [Modulos](README.md) / ' + [System.IO.Path]::GetFileNameWithoutExtension($rel),
       '<!-- NAVIGATION:END -->'
     ) -join "`n"
 
@@ -84,10 +84,10 @@ foreach ($rel in $allFiles) {
       '---',
       '### Veja tambem',
       '- [README](../../README.md)',
-      '- [Modules Intro](00-APRESENTACAO.md)',
+      '- [Modules Intro](README.md)',
       '- [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)',
       '---',
-      '**Navegacao:** [Inicio](../../README.md) | [Modulos](00-APRESENTACAO.md)',
+      '**Navegacao:** [Inicio](../../README.md) | [Modulos](README.md)',
       '<!-- NAVIGATION_FOOTER:END -->'
     ) -join "`n"
   }

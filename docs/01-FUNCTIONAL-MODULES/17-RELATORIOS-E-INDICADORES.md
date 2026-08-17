@@ -1,8 +1,8 @@
-﻿<!-- NAVIGATION:START -->
+<!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [Modules Intro](00-APRESENTACAO.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
+[README principal](../../README.md) | [Modules Intro](README.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
 ---
-> **Breadcrumbs:** [Inicio](../../README.md) / [Modulos](00-APRESENTACAO.md) / 
+> **Breadcrumbs:** [Inicio](../../README.md) / [Modulos](README.md) / 
 17-RELATORIOS-E-INDICADORES
 <!-- NAVIGATION:END -->
 
@@ -330,8 +330,8 @@ A arquitetura integrada da plataforma permite que empresas de diferentes segment
 ---
 ### Veja tambem
 - [README](../../README.md)
-- [Modules Intro](00-APRESENTACAO.md)
+- [Modules Intro](README.md)
 - [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
 ---
-**Navegacao:** [Inicio](../../README.md) | [Modulos](00-APRESENTACAO.md)
+**Navegacao:** [Inicio](../../README.md) | [Modulos](README.md)
 <!-- NAVIGATION_FOOTER:END -->

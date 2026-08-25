@@ -1,8 +1,26 @@
+---
+title: 10 - Gestão Financeira
+classification: PUBLIC
+owner: PDVPOS LTDA
+version: "1.0"
+last_updated: 2026-08-25
+---
+
+> **PROPRIEDADE INTELECTUAL**
+>
+> Conteúdo pertencente a PDVPOS LTDA.
+> Esta documentação é disponibilizada para fins de consulta,
+> utilização e suporte aos produtos e serviços PDVPOS.
+> É proibida sua reprodução, redistribuição, comercialização
+> ou utilização fora dessa finalidade sem autorização expressa.
+>
+> © 2026 PDVPOS LTDA. Todos os direitos reservados.
+
 <!-- NAVIGATION:START -->
 ---
 [README principal](../../README.md) | [Modules Intro](README.md) | [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
 ---
-> **Breadcrumbs:** [Inicio](../../README.md) / [Modulos](README.md) / 
+> **Breadcrumbs:** [Início](../../README.md) / [Módulos](README.md) /
 10-GESTAO-FINANCEIRA
 <!-- NAVIGATION:END -->
 
@@ -313,5 +331,5 @@ Conheça os recursos para emissão de boletos, PIX, links de pagamento, integra�
 - [Modules Intro](README.md)
 - [Modules Index](../00-INTRODUCTION/MODULES-INDEX.md)
 ---
-**Navegacao:** [Inicio](../../README.md) | [Modulos](README.md)
+**Navegacao:** [Início](../../README.md) | [Módulos](README.md)
 <!-- NAVIGATION_FOOTER:END -->

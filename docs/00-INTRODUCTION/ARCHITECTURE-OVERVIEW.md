@@ -1,8 +1,24 @@
-﻿<!-- NAVIGATION:START -->
+﻿---
+title: Architecture Overview
+classification: PUBLIC
+owner: PDVPOS LTDA
+version: "1.0"
+last_updated: 2026-08-25
 ---
-[README principal](../../README.md) | [Introducao](MODULES-INDEX.md) | [Modules](../01-FUNCTIONAL-MODULES/00-APRESENTACAO.md)
+
+> **PROPRIEDADE INTELECTUAL**
+>
+> Conteúdo pertencente a PDVPOS LTDA.
+> Reprodução, distribuição ou utilização fora das finalidades
+> autorizadas é proibida.
+>
+> © 2026 PDVPOS LTDA. Todos os direitos reservados.
+
+<!-- NAVIGATION:START -->
 ---
-> **Breadcrumbs:** [Inicio](../../README.md) / [Introducao](MODULES-INDEX.md) / 
+[README principal](../../README.md) | [Introdução](MODULES-INDEX.md) | [Módulos](../01-FUNCTIONAL-MODULES/00-APRESENTACAO.md)
+---
+> **Breadcrumbs:** [Início](../../README.md) / [Introdução](MODULES-INDEX.md) / 
 ARCHITECTURE-OVERVIEW
 <!-- NAVIGATION:END -->
 
@@ -478,5 +494,5 @@ Os documentos seguintes detalham cada domínio funcional apresentado nesta visã
 - [Modules Index](MODULES-INDEX.md)
 - [Apresentacao dos Modulos](../01-FUNCTIONAL-MODULES/00-APRESENTACAO.md)
 ---
-**Navegacao:** [Inicio](../../README.md) | [Introducao](MODULES-INDEX.md)
+**Navegacao:** [Início](../../README.md) | [Introdução](MODULES-INDEX.md)
 <!-- NAVIGATION_FOOTER:END -->

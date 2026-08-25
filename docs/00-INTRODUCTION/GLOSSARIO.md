@@ -1,8 +1,26 @@
-﻿<!-- NAVIGATION:START -->
+﻿---
+title: Glossário
+classification: PUBLIC
+owner: PDVPOS LTDA
+version: "1.0"
+last_updated: 2026-08-25
 ---
-[README principal](../../README.md) | [Introducao](MODULES-INDEX.md) | [Modules](../01-FUNCTIONAL-MODULES/00-APRESENTACAO.md)
+
+> **PROPRIEDADE INTELECTUAL**
+>
+> Conteúdo pertencente a PDVPOS LTDA.
+> Esta documentação é disponibilizada para fins de consulta,
+> utilização e suporte aos produtos e serviços PDVPOS.
+> É proibida sua reprodução, redistribuição, comercialização
+> ou utilização fora dessa finalidade sem autorização expressa.
+>
+> © 2026 PDVPOS LTDA. Todos os direitos reservados.
+
+<!-- NAVIGATION:START -->
 ---
-> **Breadcrumbs:** [Inicio](../../README.md) / [Introducao](MODULES-INDEX.md) / 
+[README principal](../../README.md) | [Introdução](MODULES-INDEX.md) | [Módulos](../01-FUNCTIONAL-MODULES/00-APRESENTACAO.md)
+---
+> **Breadcrumbs:** [Início](../../README.md) / [Introdução](MODULES-INDEX.md) / 
 GLOSSARIO
 <!-- NAVIGATION:END -->
 
@@ -482,5 +500,5 @@ Manter a terminologia padronizada é fundamental para garantir consistência ent
 - [Modules Index](MODULES-INDEX.md)
 - [Apresentacao dos Modulos](../01-FUNCTIONAL-MODULES/00-APRESENTACAO.md)
 ---
-**Navegacao:** [Inicio](../../README.md) | [Introducao](MODULES-INDEX.md)
+**Navegacao:** [Início](../../README.md) | [Introdução](MODULES-INDEX.md)
 <!-- NAVIGATION_FOOTER:END -->

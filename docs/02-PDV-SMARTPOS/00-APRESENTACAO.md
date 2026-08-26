@@ -1,8 +1,26 @@
-﻿<!-- NAVIGATION:START -->
+﻿---
+title: PDV SmartPOS - Apresentação
+classification: PUBLIC
+owner: PDVPOS LTDA
+version: "1.0"
+last_updated: 2026-08-26
 ---
-[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](README.md) | [Proximo](01-ARQUITETURA.md)
+
+> **PROPRIEDADE INTELECTUAL**
+>
+> Conteúdo pertencente a PDVPOS LTDA.
+> Esta documentação é disponibilizada para fins de consulta,
+> utilização e suporte aos produtos e serviços PDVPOS.
+> É proibida sua reprodução, redistribuição, comercialização
+> ou utilização fora dessa finalidade sem autorização expressa.
+>
+> © 2026 PDVPOS LTDA. Todos os direitos reservados.
+
+<!-- NAVIGATION:START -->
 ---
-> **Caminho:** [Inicio](../../README.md) / [PDV SmartPOS](README.md) / 00 APRESENTACAO
+[README principal](../../README.md) | [Índice da documentação](README.md) | [Anterior](README.md) | [Próximo](01-ARQUITETURA.md)
+---
+> **Caminho:** [Início](../../README.md) / [PDV SmartPOS](README.md) / 00 - APRESENTAÇÃO
 <!-- NAVIGATION:END -->
 
 # 00 - Apresentação
@@ -246,11 +264,11 @@ A documentação aborda desde a arquitetura da solução até os fluxos completo
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README principal](../../README.md)
-- [Indice da documentacao](README.md)
-- [Proximo](01-ARQUITETURA.md)
+- [Índice da documentação](README.md)
+- [Próximo](01-ARQUITETURA.md)
 ---
-**Navegacao:** [Anterior](README.md) | [Inicio](../../README.md) | [Proximo](01-ARQUITETURA.md)
+**Navegação:** [Anterior](README.md) | [Início](../../README.md) | [Próximo](01-ARQUITETURA.md)
 <!-- NAVIGATION_FOOTER:END -->
 

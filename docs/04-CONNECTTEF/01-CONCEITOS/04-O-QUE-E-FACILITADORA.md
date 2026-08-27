@@ -16,9 +16,11 @@ last_updated: 2026-08-27
 >
 > © 2026 PDVPOS LTDA. Todos os direitos reservados.
 <!-- NAVIGATION:START -->
+
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](03-O-QUE-E-ADQUIRENTE.md) | [Próximo](05-O-QUE-E-GERENCIADOR-PADRAO.md)
 ---
+
 > **Caminho:** [Início](../README.md) / Conceitos / O que é Facilitadora
 <!-- NAVIGATION:END -->
 

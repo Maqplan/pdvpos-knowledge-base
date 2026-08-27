@@ -16,9 +16,11 @@ last_updated: 2026-08-27
 >
 > © 2026 PDVPOS LTDA. Todos os direitos reservados.
 <!-- NAVIGATION:START -->
+
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](08-POR-QUE-GERENCIADOR-PADRAO.md) | [Próximo](10-CUSTO-DE-MANTER-INTEGRACOES-PROPRIAS.md)
 ---
+
 > **Caminho:** [Início](../README.md) / Por que ConnectTEF / Por que ConnectTEF
 <!-- NAVIGATION:END -->
 

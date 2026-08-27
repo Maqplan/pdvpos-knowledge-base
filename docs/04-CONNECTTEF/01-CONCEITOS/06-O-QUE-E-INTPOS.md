@@ -16,9 +16,11 @@ last_updated: 2026-08-27
 >
 > © 2026 PDVPOS LTDA. Todos os direitos reservados.
 <!-- NAVIGATION:START -->
+
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](05-O-QUE-E-GERENCIADOR-PADRAO.md) | [Próximo](07-O-QUE-E-SITEF.md)
 ---
+
 > **Caminho:** [Início](../README.md) / Conceitos / O que é INTPOS
 <!-- NAVIGATION:END -->
 

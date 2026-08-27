@@ -16,9 +16,11 @@ last_updated: 2026-08-27
 >
 > © 2026 PDVPOS LTDA. Todos os direitos reservados.
 <!-- NAVIGATION:START -->
+
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](03-FAQ-SMARTPOS.md) | [Próximo](05-FAQ-OPERACIONAL.md)
 ---
+
 > **Caminho:** [Início](../README.md) / FAQ / FAQ White Label
 <!-- NAVIGATION:END -->
 

@@ -16,9 +16,11 @@ last_updated: 2026-08-27
 >
 > © 2026 PDVPOS LTDA. Todos os direitos reservados.
 <!-- NAVIGATION:START -->
+
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](02-POR-QUE-SMARTPOS.md) | [Próximo](04-POR-QUE-OFFLINE.md)
 ---
+
 > **Caminho:** [Início](../README.md) / Por que ConnectTEF / Por que API Rest
 <!-- NAVIGATION:END -->
 

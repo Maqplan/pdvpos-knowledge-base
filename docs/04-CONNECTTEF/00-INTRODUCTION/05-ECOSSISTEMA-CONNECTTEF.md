@@ -16,9 +16,11 @@ last_updated: 2026-08-27
 >
 > © 2026 PDVPOS LTDA. Todos os direitos reservados.
 <!-- NAVIGATION:START -->
+
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](04-ARQUITETURA-GERAL.md) | [Próximo](06-PRIMEIROS-PASSOS.md)
 ---
+
 > **Caminho:** [Início](../README.md) / Introdução / Ecossistema ConnectTEF
 <!-- NAVIGATION:END -->
 

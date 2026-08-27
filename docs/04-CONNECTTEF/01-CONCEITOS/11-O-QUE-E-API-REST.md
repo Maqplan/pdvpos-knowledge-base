@@ -16,9 +16,11 @@ last_updated: 2026-08-27
 >
 > © 2026 PDVPOS LTDA. Todos os direitos reservados.
 <!-- NAVIGATION:START -->
+
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](10-O-QUE-E-API-LOCAL.md) | [Próximo](12-GLOSSARIO.md)
 ---
+
 > **Caminho:** [Início](../README.md) / Conceitos / O que é API REST
 <!-- NAVIGATION:END -->
 

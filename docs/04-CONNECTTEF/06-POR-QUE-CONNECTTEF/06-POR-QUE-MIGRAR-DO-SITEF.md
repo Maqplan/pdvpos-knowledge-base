@@ -16,9 +16,11 @@ last_updated: 2026-08-27
 >
 > © 2026 PDVPOS LTDA. Todos os direitos reservados.
 <!-- NAVIGATION:START -->
+
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](05-POR-QUE-WHITE-LABEL.md) | [Próximo](07-POR-QUE-MIGRAR-DO-INTPOS.md)
 ---
+
 > **Caminho:** [Início](../README.md) / Por que ConnectTEF / Por que Migrar do Sitef
 <!-- NAVIGATION:END -->
 

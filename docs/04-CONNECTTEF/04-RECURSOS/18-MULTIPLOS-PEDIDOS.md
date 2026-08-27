@@ -16,9 +16,11 @@ last_updated: 2026-08-27
 >
 > © 2026 PDVPOS LTDA. Todos os direitos reservados.
 <!-- NAVIGATION:START -->
+
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](17-MULTIPLOS-CAIXAS.md) | [Próximo](19-INTEGRACAO-COM-DELIVERY.md)
 ---
+
 > **Caminho:** [Início](../README.md) / Recursos / Múltiplos Pedidos
 <!-- NAVIGATION:END -->
 

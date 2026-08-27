@@ -16,9 +16,11 @@ last_updated: 2026-08-27
 >
 > © 2026 PDVPOS LTDA. Todos os direitos reservados.
 <!-- NAVIGATION:START -->
+
 ---
 [README Principal](../README.md) | [Índice da Seção](README.md) | [Anterior](05-FAQ-OPERACIONAL.md) | [Próximo](../06-POR-QUE-CONNECTTEF/README.md)
 ---
+
 > **Caminho:** [Início](../README.md) / **11 - FAQ** / 06 - FAQ Arquitetural
 <!-- NAVIGATION:END -->
 

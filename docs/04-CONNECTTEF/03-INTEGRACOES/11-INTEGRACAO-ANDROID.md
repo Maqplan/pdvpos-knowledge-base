@@ -16,9 +16,11 @@ last_updated: 2026-08-27
 >
 > © 2026 PDVPOS LTDA. Todos os direitos reservados.
 <!-- NAVIGATION:START -->
+
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](10-INTEGRACAO-WEB.md) | [Próximo](12-BOAS-PRATICAS.md)
 ---
+
 > **Caminho:** [Início](../README.md) / Integrações / Integração Android
 <!-- NAVIGATION:END -->
 

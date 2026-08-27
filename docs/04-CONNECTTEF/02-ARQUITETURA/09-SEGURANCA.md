@@ -16,9 +16,11 @@ last_updated: 2026-08-27
 >
 > © 2026 PDVPOS LTDA. Todos os direitos reservados.
 <!-- NAVIGATION:START -->
+
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](08-EVENTOS.md) | [Próximo](../03-INTEGRACOES/README.md)
 ---
+
 > **Caminho:** [Início](../README.md) / Arquitetura / Segurança
 <!-- NAVIGATION:END -->
 

@@ -17,9 +17,11 @@ last_updated: 2026-08-25
 > © 2026 PDVPOS LTDA. Todos os direitos reservados.
 
 <!-- NAVIGATION:START -->
+
 ---
 [README principal](CAMINHO_PARA_README) | [Índice da documentação](CAMINHO_PARA_INDICE) | [Anterior](CAMINHO_PARA_ANTERIOR) | [Próximo](CAMINHO_PARA_PROXIMO)
 ---
+
 > **Caminho:** [Início](CAMINHO_PARA_README) / [Seção](CAMINHO_PARA_SECAO) / TITULO_DA_PAGINA
 <!-- NAVIGATION:END -->
 

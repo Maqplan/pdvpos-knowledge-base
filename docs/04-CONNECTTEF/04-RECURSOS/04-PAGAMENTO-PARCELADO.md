@@ -16,9 +16,11 @@ last_updated: 2026-08-27
 >
 > © 2026 PDVPOS LTDA. Todos os direitos reservados.
 <!-- NAVIGATION:START -->
+
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](03-REIMPRESSAO.md) | [Próximo](05-FILA-DE-COBRANCAS.md)
 ---
+
 > **Caminho:** [Início](../README.md) / Recursos / Pagamento Parcelado
 <!-- NAVIGATION:END -->
 

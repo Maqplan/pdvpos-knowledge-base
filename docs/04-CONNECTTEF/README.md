@@ -15,6 +15,7 @@ last_updated: 2026-08-27
 > ou utilização fora dessa finalidade sem autorização expressa.
 >
 > © 2026 PDVPOS LTDA. Todos os direitos reservados.
+
 <!-- NAVIGATION:START -->
 ---
 [README ConnectTEF](README.md) | [Índice da Seção](README.md) | Anterior | [Próximo](00-INTRODUCTION/README.md)

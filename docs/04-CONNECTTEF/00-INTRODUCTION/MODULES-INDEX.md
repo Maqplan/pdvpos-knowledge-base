@@ -19,6 +19,7 @@ last_updated: 2026-08-27
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](06-PRIMEIROS-PASSOS.md) | [Próximo](../01-CONCEITOS/README.md)
 ---
+
 > **Caminho:** [Início](../README.md) / Introdução / Índice de Módulos
 <!-- NAVIGATION:END -->
 

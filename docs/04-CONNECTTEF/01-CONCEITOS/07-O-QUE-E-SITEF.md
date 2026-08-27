@@ -1,8 +1,25 @@
-﻿<!-- NAVIGATION:START -->
+---
+title: O que é SiTef?
+classification: PUBLIC
+owner: PDVPOS LTDA
+version: "1.0"
+last_updated: 2026-08-27
+---
+
+> **PROPRIEDADE INTELECTUAL**
+>
+> Conteúdo pertencente a PDVPOS LTDA.
+> Esta documentação é disponibilizada para fins de consulta,
+> utilização e suporte aos produtos e serviços PDVPOS.
+> É proibida sua reprodução, redistribuição, comercialização
+> ou utilização fora dessa finalidade sem autorização expressa.
+>
+> © 2026 PDVPOS LTDA. Todos os direitos reservados.
+<!-- NAVIGATION:START -->
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](06-O-QUE-E-INTPOS.md) | [Próximo](08-O-QUE-E-PROVIDER.md)
 ---
-> **Caminho:** [Início](../README.md) / Conceitos / O que e Sitef
+> **Caminho:** [Início](../README.md) / Conceitos / O que é Sitef
 <!-- NAVIGATION:END -->
 
 # O que é SiTef?
@@ -181,7 +198,7 @@ No próximo capítulo conheceremos o **Provider Android**, um dos principais mec
 ### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
-- [O que e Provider](08-O-QUE-E-PROVIDER.md)
+- [O que é Provider](08-O-QUE-E-PROVIDER.md)
 ---
 **Navegação:** [Anterior](06-O-QUE-E-INTPOS.md) | [Início](../README.md) | [Próximo](08-O-QUE-E-PROVIDER.md)
 <!-- NAVIGATION_FOOTER:END -->

@@ -1,8 +1,25 @@
-﻿<!-- NAVIGATION:START -->
+---
+title: O que é o Gerenciador Padrão?
+classification: PUBLIC
+owner: PDVPOS LTDA
+version: "1.0"
+last_updated: 2026-08-27
+---
+
+> **PROPRIEDADE INTELECTUAL**
+>
+> Conteúdo pertencente a PDVPOS LTDA.
+> Esta documentação é disponibilizada para fins de consulta,
+> utilização e suporte aos produtos e serviços PDVPOS.
+> É proibida sua reprodução, redistribuição, comercialização
+> ou utilização fora dessa finalidade sem autorização expressa.
+>
+> © 2026 PDVPOS LTDA. Todos os direitos reservados.
+<!-- NAVIGATION:START -->
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](04-O-QUE-E-FACILITADORA.md) | [Próximo](06-O-QUE-E-INTPOS.md)
 ---
-> **Caminho:** [Início](../README.md) / Conceitos / O que e Gerenciador Padrao
+> **Caminho:** [Início](../README.md) / Conceitos / O que é Gerenciador Padrão
 <!-- NAVIGATION:END -->
 
 # O que é o Gerenciador Padrão?
@@ -180,7 +197,7 @@ Agora conheceremos o padrão **INTPOS**, utilizado por milhares de sistemas de g
 ### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
-- [O que e INTPOS](06-O-QUE-E-INTPOS.md)
+- [O que é INTPOS](06-O-QUE-E-INTPOS.md)
 ---
 **Navegação:** [Anterior](04-O-QUE-E-FACILITADORA.md) | [Início](../README.md) | [Próximo](06-O-QUE-E-INTPOS.md)
 <!-- NAVIGATION_FOOTER:END -->

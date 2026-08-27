@@ -1,8 +1,25 @@
-﻿<!-- NAVIGATION:START -->
+---
+title: O que é uma Adquirente?
+classification: PUBLIC
+owner: PDVPOS LTDA
+version: "1.0"
+last_updated: 2026-08-27
+---
+
+> **PROPRIEDADE INTELECTUAL**
+>
+> Conteúdo pertencente a PDVPOS LTDA.
+> Esta documentação é disponibilizada para fins de consulta,
+> utilização e suporte aos produtos e serviços PDVPOS.
+> É proibida sua reprodução, redistribuição, comercialização
+> ou utilização fora dessa finalidade sem autorização expressa.
+>
+> © 2026 PDVPOS LTDA. Todos os direitos reservados.
+<!-- NAVIGATION:START -->
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](02-O-QUE-E-SMARTPOS.md) | [Próximo](04-O-QUE-E-FACILITADORA.md)
 ---
-> **Caminho:** [Início](../README.md) / Conceitos / O que e Adquirente
+> **Caminho:** [Início](../README.md) / Conceitos / O que é Adquirente
 <!-- NAVIGATION:END -->
 
 # O que é uma Adquirente?
@@ -212,7 +229,7 @@ Agora conheceremos o conceito de **Facilitadora**, responsável por oferecer sol
 ### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
-- [O que e Facilitadora](04-O-QUE-E-FACILITADORA.md)
+- [O que é Facilitadora](04-O-QUE-E-FACILITADORA.md)
 ---
 **Navegação:** [Anterior](02-O-QUE-E-SMARTPOS.md) | [Início](../README.md) | [Próximo](04-O-QUE-E-FACILITADORA.md)
 <!-- NAVIGATION_FOOTER:END -->

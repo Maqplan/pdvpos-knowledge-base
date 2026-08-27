@@ -1,4 +1,21 @@
-﻿<!-- NAVIGATION:START -->
+---
+title: 09 - Por que ConnectTEF?
+classification: PUBLIC
+owner: PDVPOS LTDA
+version: "1.0"
+last_updated: 2026-08-27
+---
+
+> **PROPRIEDADE INTELECTUAL**
+>
+> Conteúdo pertencente a PDVPOS LTDA.
+> Esta documentação é disponibilizada para fins de consulta,
+> utilização e suporte aos produtos e serviços PDVPOS.
+> É proibida sua reprodução, redistribuição, comercialização
+> ou utilização fora dessa finalidade sem autorização expressa.
+>
+> © 2026 PDVPOS LTDA. Todos os direitos reservados.
+<!-- NAVIGATION:START -->
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](08-POR-QUE-GERENCIADOR-PADRAO.md) | [Próximo](10-CUSTO-DE-MANTER-INTEGRACOES-PROPRIAS.md)
 ---
@@ -196,7 +213,7 @@ Mais do que integrar equipamentos, o ConnectTEF permite que empresas desenvolvam
 ### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
-- [Custo de Manter Integrações Proprias](10-CUSTO-DE-MANTER-INTEGRACOES-PROPRIAS.md)
+- [Custo de Manter Integrações Próprias](10-CUSTO-DE-MANTER-INTEGRACOES-PROPRIAS.md)
 ---
 **Navegação:** [Anterior](08-POR-QUE-GERENCIADOR-PADRAO.md) | [Início](../README.md) | [Próximo](10-CUSTO-DE-MANTER-INTEGRACOES-PROPRIAS.md)
 <!-- NAVIGATION_FOOTER:END -->

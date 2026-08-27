@@ -1,8 +1,25 @@
-﻿<!-- NAVIGATION:START -->
+---
+title: 05 - Integração via INTPOS
+classification: PUBLIC
+owner: PDVPOS LTDA
+version: "1.0"
+last_updated: 2026-08-27
+---
+
+> **PROPRIEDADE INTELECTUAL**
+>
+> Conteúdo pertencente a PDVPOS LTDA.
+> Esta documentação é disponibilizada para fins de consulta,
+> utilização e suporte aos produtos e serviços PDVPOS.
+> É proibida sua reprodução, redistribuição, comercialização
+> ou utilização fora dessa finalidade sem autorização expressa.
+>
+> © 2026 PDVPOS LTDA. Todos os direitos reservados.
+<!-- NAVIGATION:START -->
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](04-INTEGRACAO-VIA-INTENT.md) | [Próximo](06-INTEGRACAO-VIA-SITEF.md)
 ---
-> **Caminho:** [Início](../README.md) / Integrações / Integracao via INTPOS
+> **Caminho:** [Início](../README.md) / Integrações / Integração via INTPOS
 <!-- NAVIGATION:END -->
 
 # 05 - Integração via INTPOS
@@ -176,7 +193,7 @@ Os próximos capítulos apresentam os mecanismos de compatibilidade disponibiliz
 ### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
-- [Integracao via Sitef](06-INTEGRACAO-VIA-SITEF.md)
+- [Integração via Sitef](06-INTEGRACAO-VIA-SITEF.md)
 ---
 **Navegação:** [Anterior](04-INTEGRACAO-VIA-INTENT.md) | [Início](../README.md) | [Próximo](06-INTEGRACAO-VIA-SITEF.md)
 <!-- NAVIGATION_FOOTER:END -->

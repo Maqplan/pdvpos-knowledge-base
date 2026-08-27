@@ -1,8 +1,25 @@
-﻿<!-- NAVIGATION:START -->
+---
+title: 08 - Integração via Windows DLL
+classification: PUBLIC
+owner: PDVPOS LTDA
+version: "1.0"
+last_updated: 2026-08-27
+---
+
+> **PROPRIEDADE INTELECTUAL**
+>
+> Conteúdo pertencente a PDVPOS LTDA.
+> Esta documentação é disponibilizada para fins de consulta,
+> utilização e suporte aos produtos e serviços PDVPOS.
+> É proibida sua reprodução, redistribuição, comercialização
+> ou utilização fora dessa finalidade sem autorização expressa.
+>
+> © 2026 PDVPOS LTDA. Todos os direitos reservados.
+<!-- NAVIGATION:START -->
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](07-INTEGRACAO-VIA-ELGIN.md) | [Próximo](09-INTEGRACAO-DESKTOP.md)
 ---
-> **Caminho:** [Início](../README.md) / Integrações / Integracao via Dll
+> **Caminho:** [Início](../README.md) / Integrações / Integração via Dll
 <!-- NAVIGATION:END -->
 
 # 08 - Integração via Windows DLL
@@ -183,7 +200,7 @@ No próximo capítulo serão apresentadas as recomendações para integração d
 ### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
-- [Integracao Desktop](09-INTEGRACAO-DESKTOP.md)
+- [Integração Desktop](09-INTEGRACAO-DESKTOP.md)
 ---
 **Navegação:** [Anterior](07-INTEGRACAO-VIA-ELGIN.md) | [Início](../README.md) | [Próximo](09-INTEGRACAO-DESKTOP.md)
 <!-- NAVIGATION_FOOTER:END -->

@@ -1,8 +1,25 @@
-﻿<!-- NAVIGATION:START -->
+---
+title: 02 - Integração via API Local
+classification: PUBLIC
+owner: PDVPOS LTDA
+version: "1.0"
+last_updated: 2026-08-27
+---
+
+> **PROPRIEDADE INTELECTUAL**
+>
+> Conteúdo pertencente a PDVPOS LTDA.
+> Esta documentação é disponibilizada para fins de consulta,
+> utilização e suporte aos produtos e serviços PDVPOS.
+> É proibida sua reprodução, redistribuição, comercialização
+> ou utilização fora dessa finalidade sem autorização expressa.
+>
+> © 2026 PDVPOS LTDA. Todos os direitos reservados.
+<!-- NAVIGATION:START -->
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](01-INTEGRACAO-VIA-API-REST.md) | [Próximo](03-INTEGRACAO-VIA-PROVIDER.md)
 ---
-> **Caminho:** [Início](../README.md) / Integrações / Integracao via API Local
+> **Caminho:** [Início](../README.md) / Integrações / Integração via API Local
 <!-- NAVIGATION:END -->
 
 # 02 - Integração via API Local
@@ -187,7 +204,7 @@ Nos próximos capítulos serão apresentados outros modelos de integração, inc
 ### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
-- [Integracao via Provider](03-INTEGRACAO-VIA-PROVIDER.md)
+- [Integração via Provider](03-INTEGRACAO-VIA-PROVIDER.md)
 ---
 **Navegação:** [Anterior](01-INTEGRACAO-VIA-API-REST.md) | [Início](../README.md) | [Próximo](03-INTEGRACAO-VIA-PROVIDER.md)
 <!-- NAVIGATION_FOOTER:END -->

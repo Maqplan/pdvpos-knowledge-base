@@ -1,4 +1,21 @@
-﻿<!-- NAVIGATION:START -->
+---
+title: Arquitetura de Operação Offline
+classification: PUBLIC
+owner: PDVPOS LTDA
+version: "1.0"
+last_updated: 2026-08-27
+---
+
+> **PROPRIEDADE INTELECTUAL**
+>
+> Conteúdo pertencente a PDVPOS LTDA.
+> Esta documentação é disponibilizada para fins de consulta,
+> utilização e suporte aos produtos e serviços PDVPOS.
+> É proibida sua reprodução, redistribuição, comercialização
+> ou utilização fora dessa finalidade sem autorização expressa.
+>
+> © 2026 PDVPOS LTDA. Todos os direitos reservados.
+<!-- NAVIGATION:START -->
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](04-FLUXO-DE-COMUNICACAO.md) | [Próximo](06-AUTENTICACAO.md)
 ---
@@ -264,7 +281,7 @@ Agora conheceremos como a arquitetura do ConnectTEF foi projetada para escalar, 
 ### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
-- [Autenticacao](06-AUTENTICACAO.md)
+- [Autenticação](06-AUTENTICACAO.md)
 ---
 **Navegação:** [Anterior](04-FLUXO-DE-COMUNICACAO.md) | [Início](../README.md) | [Próximo](06-AUTENTICACAO.md)
 <!-- NAVIGATION_FOOTER:END -->

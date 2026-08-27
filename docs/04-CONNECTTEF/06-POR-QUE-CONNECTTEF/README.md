@@ -1,4 +1,21 @@
-﻿<!-- NAVIGATION:START -->
+---
+title: 06 - Por que ConnectTEF
+classification: PUBLIC
+owner: PDVPOS LTDA
+version: "1.0"
+last_updated: 2026-08-27
+---
+
+> **PROPRIEDADE INTELECTUAL**
+>
+> Conteúdo pertencente a PDVPOS LTDA.
+> Esta documentação é disponibilizada para fins de consulta,
+> utilização e suporte aos produtos e serviços PDVPOS.
+> É proibida sua reprodução, redistribuição, comercialização
+> ou utilização fora dessa finalidade sem autorização expressa.
+>
+> © 2026 PDVPOS LTDA. Todos os direitos reservados.
+<!-- NAVIGATION:START -->
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](../05-FAQ/05-FAQ-ARQUITETURAL.md) | [Próximo](01-POR-QUE-UMA-UNICA-INTEGRACAO.md)
 ---
@@ -31,7 +48,7 @@ Esta seção consolida os argumentos de valor e os motivos estrategicos para ado
 ### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
-- [Por que Uma Unica Integracao](01-POR-QUE-UMA-UNICA-INTEGRACAO.md)
+- [Por que Uma Única Integração](01-POR-QUE-UMA-UNICA-INTEGRACAO.md)
 ---
 **Navegação:** [Anterior](../05-FAQ/05-FAQ-OPERACIONAL.md) | [Início](../README.md) | [Próximo](01-POR-QUE-UMA-UNICA-INTEGRACAO.md)
 <!-- NAVIGATION_FOOTER:END -->

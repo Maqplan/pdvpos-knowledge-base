@@ -1,8 +1,25 @@
-﻿<!-- NAVIGATION:START -->
+---
+title: 08 - Por que Gerenciador Padrão?
+classification: PUBLIC
+owner: PDVPOS LTDA
+version: "1.0"
+last_updated: 2026-08-27
+---
+
+> **PROPRIEDADE INTELECTUAL**
+>
+> Conteúdo pertencente a PDVPOS LTDA.
+> Esta documentação é disponibilizada para fins de consulta,
+> utilização e suporte aos produtos e serviços PDVPOS.
+> É proibida sua reprodução, redistribuição, comercialização
+> ou utilização fora dessa finalidade sem autorização expressa.
+>
+> © 2026 PDVPOS LTDA. Todos os direitos reservados.
+<!-- NAVIGATION:START -->
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](07-POR-QUE-MIGRAR-DO-INTPOS.md) | [Próximo](09-POR-QUE-CONNECTTEF.md)
 ---
-> **Caminho:** [Início](../README.md) / Por que ConnectTEF / Por que Gerenciador Padrao
+> **Caminho:** [Início](../README.md) / Por que ConnectTEF / Por que Gerenciador Padrão
 <!-- NAVIGATION:END -->
 
 # 08 - Por que Gerenciador Padrão?

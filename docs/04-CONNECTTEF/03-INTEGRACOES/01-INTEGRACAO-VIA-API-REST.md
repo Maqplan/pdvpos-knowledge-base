@@ -1,8 +1,25 @@
-﻿<!-- NAVIGATION:START -->
+---
+title: 01 - Integração via API REST
+classification: PUBLIC
+owner: PDVPOS LTDA
+version: "1.0"
+last_updated: 2026-08-27
+---
+
+> **PROPRIEDADE INTELECTUAL**
+>
+> Conteúdo pertencente a PDVPOS LTDA.
+> Esta documentação é disponibilizada para fins de consulta,
+> utilização e suporte aos produtos e serviços PDVPOS.
+> É proibida sua reprodução, redistribuição, comercialização
+> ou utilização fora dessa finalidade sem autorização expressa.
+>
+> © 2026 PDVPOS LTDA. Todos os direitos reservados.
+<!-- NAVIGATION:START -->
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](00-VISAO-GERAL.md) | [Próximo](02-INTEGRACAO-VIA-API-LOCAL.md)
 ---
-> **Caminho:** [Início](../README.md) / Integrações / Integracao via API Rest
+> **Caminho:** [Início](../README.md) / Integrações / Integração via API Rest
 <!-- NAVIGATION:END -->
 
 # 01 - Integração via API REST
@@ -206,7 +223,7 @@ Nos próximos capítulos serão apresentados os demais modelos de integração s
 ### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
-- [Integracao via API Local](02-INTEGRACAO-VIA-API-LOCAL.md)
+- [Integração via API Local](02-INTEGRACAO-VIA-API-LOCAL.md)
 ---
 **Navegação:** [Anterior](00-VISAO-GERAL.md) | [Início](../README.md) | [Próximo](02-INTEGRACAO-VIA-API-LOCAL.md)
 <!-- NAVIGATION_FOOTER:END -->

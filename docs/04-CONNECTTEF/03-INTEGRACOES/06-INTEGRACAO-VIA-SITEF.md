@@ -1,8 +1,25 @@
-﻿<!-- NAVIGATION:START -->
+---
+title: 06 - Integração via SiTef
+classification: PUBLIC
+owner: PDVPOS LTDA
+version: "1.0"
+last_updated: 2026-08-27
+---
+
+> **PROPRIEDADE INTELECTUAL**
+>
+> Conteúdo pertencente a PDVPOS LTDA.
+> Esta documentação é disponibilizada para fins de consulta,
+> utilização e suporte aos produtos e serviços PDVPOS.
+> É proibida sua reprodução, redistribuição, comercialização
+> ou utilização fora dessa finalidade sem autorização expressa.
+>
+> © 2026 PDVPOS LTDA. Todos os direitos reservados.
+<!-- NAVIGATION:START -->
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](05-INTEGRACAO-VIA-INTPOS.md) | [Próximo](07-INTEGRACAO-VIA-ELGIN.md)
 ---
-> **Caminho:** [Início](../README.md) / Integrações / Integracao via Sitef
+> **Caminho:** [Início](../README.md) / Integrações / Integração via Sitef
 <!-- NAVIGATION:END -->
 
 # 06 - Integração via SiTef
@@ -174,7 +191,7 @@ O próximo capítulo apresenta os mecanismos de compatibilidade disponibilizados
 ### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
-- [Integracao via Elgin](07-INTEGRACAO-VIA-ELGIN.md)
+- [Integração via Elgin](07-INTEGRACAO-VIA-ELGIN.md)
 ---
 **Navegação:** [Anterior](05-INTEGRACAO-VIA-INTPOS.md) | [Início](../README.md) | [Próximo](07-INTEGRACAO-VIA-ELGIN.md)
 <!-- NAVIGATION_FOOTER:END -->

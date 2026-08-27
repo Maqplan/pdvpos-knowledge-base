@@ -1,8 +1,25 @@
-﻿<!-- NAVIGATION:START -->
+---
+title: 00 - Visão Geral
+classification: PUBLIC
+owner: PDVPOS LTDA
+version: "1.0"
+last_updated: 2026-08-27
+---
+
+> **PROPRIEDADE INTELECTUAL**
+>
+> Conteúdo pertencente a PDVPOS LTDA.
+> Esta documentação é disponibilizada para fins de consulta,
+> utilização e suporte aos produtos e serviços PDVPOS.
+> É proibida sua reprodução, redistribuição, comercialização
+> ou utilização fora dessa finalidade sem autorização expressa.
+>
+> © 2026 PDVPOS LTDA. Todos os direitos reservados.
+<!-- NAVIGATION:START -->
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](README.md) | [Próximo](01-INTEGRACAO-VIA-API-REST.md)
 ---
-> **Caminho:** [Início](../README.md) / Integrações / Visao Geral
+> **Caminho:** [Início](../README.md) / Integrações / Visão Geral
 <!-- NAVIGATION:END -->
 
 # 00 - Visão Geral
@@ -170,7 +187,7 @@ Nos próximos capítulos serão apresentados em detalhes cada um dos modelos de 
 ### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
-- [Integracao via API Rest](01-INTEGRACAO-VIA-API-REST.md)
+- [Integração via API Rest](01-INTEGRACAO-VIA-API-REST.md)
 ---
 **Navegação:** [Anterior](README.md) | [Início](../README.md) | [Próximo](01-INTEGRACAO-VIA-API-REST.md)
 <!-- NAVIGATION_FOOTER:END -->

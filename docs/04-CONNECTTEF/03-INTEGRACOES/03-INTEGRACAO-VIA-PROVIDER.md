@@ -1,8 +1,25 @@
-﻿<!-- NAVIGATION:START -->
+---
+title: 03 - Integração via Provider
+classification: PUBLIC
+owner: PDVPOS LTDA
+version: "1.0"
+last_updated: 2026-08-27
+---
+
+> **PROPRIEDADE INTELECTUAL**
+>
+> Conteúdo pertencente a PDVPOS LTDA.
+> Esta documentação é disponibilizada para fins de consulta,
+> utilização e suporte aos produtos e serviços PDVPOS.
+> É proibida sua reprodução, redistribuição, comercialização
+> ou utilização fora dessa finalidade sem autorização expressa.
+>
+> © 2026 PDVPOS LTDA. Todos os direitos reservados.
+<!-- NAVIGATION:START -->
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](02-INTEGRACAO-VIA-API-LOCAL.md) | [Próximo](04-INTEGRACAO-VIA-INTENT.md)
 ---
-> **Caminho:** [Início](../README.md) / Integrações / Integracao via Provider
+> **Caminho:** [Início](../README.md) / Integrações / Integração via Provider
 <!-- NAVIGATION:END -->
 
 # 03 - Integração via Provider
@@ -182,7 +199,7 @@ O próximo capítulo apresenta a integração utilizando **Intent**, outro mecan
 ### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
-- [Integracao via Intent](04-INTEGRACAO-VIA-INTENT.md)
+- [Integração via Intent](04-INTEGRACAO-VIA-INTENT.md)
 ---
 **Navegação:** [Anterior](02-INTEGRACAO-VIA-API-LOCAL.md) | [Início](../README.md) | [Próximo](04-INTEGRACAO-VIA-INTENT.md)
 <!-- NAVIGATION_FOOTER:END -->

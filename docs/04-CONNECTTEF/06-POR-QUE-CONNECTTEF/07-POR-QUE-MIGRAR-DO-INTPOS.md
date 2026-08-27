@@ -1,4 +1,21 @@
-﻿<!-- NAVIGATION:START -->
+---
+title: 07 - Por que migrar do INTPOS?
+classification: PUBLIC
+owner: PDVPOS LTDA
+version: "1.0"
+last_updated: 2026-08-27
+---
+
+> **PROPRIEDADE INTELECTUAL**
+>
+> Conteúdo pertencente a PDVPOS LTDA.
+> Esta documentação é disponibilizada para fins de consulta,
+> utilização e suporte aos produtos e serviços PDVPOS.
+> É proibida sua reprodução, redistribuição, comercialização
+> ou utilização fora dessa finalidade sem autorização expressa.
+>
+> © 2026 PDVPOS LTDA. Todos os direitos reservados.
+<!-- NAVIGATION:START -->
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](06-POR-QUE-MIGRAR-DO-SITEF.md) | [Próximo](08-POR-QUE-GERENCIADOR-PADRAO.md)
 ---
@@ -164,7 +181,7 @@ Essa abordagem reduz riscos, protege investimentos e permite que a evolução oc
 ### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
-- [Por que Gerenciador Padrao](08-POR-QUE-GERENCIADOR-PADRAO.md)
+- [Por que Gerenciador Padrão](08-POR-QUE-GERENCIADOR-PADRAO.md)
 ---
 **Navegação:** [Anterior](06-POR-QUE-MIGRAR-DO-SITEF.md) | [Início](../README.md) | [Próximo](08-POR-QUE-GERENCIADOR-PADRAO.md)
 <!-- NAVIGATION_FOOTER:END -->

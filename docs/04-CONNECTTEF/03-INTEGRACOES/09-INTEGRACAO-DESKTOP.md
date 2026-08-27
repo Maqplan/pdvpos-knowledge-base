@@ -1,8 +1,25 @@
-﻿<!-- NAVIGATION:START -->
+---
+title: 09 - Integração Desktop
+classification: PUBLIC
+owner: PDVPOS LTDA
+version: "1.0"
+last_updated: 2026-08-27
+---
+
+> **PROPRIEDADE INTELECTUAL**
+>
+> Conteúdo pertencente a PDVPOS LTDA.
+> Esta documentação é disponibilizada para fins de consulta,
+> utilização e suporte aos produtos e serviços PDVPOS.
+> É proibida sua reprodução, redistribuição, comercialização
+> ou utilização fora dessa finalidade sem autorização expressa.
+>
+> © 2026 PDVPOS LTDA. Todos os direitos reservados.
+<!-- NAVIGATION:START -->
 ---
 [README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](08-INTEGRACAO-VIA-DLL.md) | [Próximo](10-INTEGRACAO-WEB.md)
 ---
-> **Caminho:** [Início](../README.md) / Integrações / Integracao Desktop
+> **Caminho:** [Início](../README.md) / Integrações / Integração Desktop
 <!-- NAVIGATION:END -->
 
 # 09 - Integração Desktop
@@ -208,7 +225,7 @@ No próximo capítulo será apresentada a integração destinada às aplicaçõe
 ### Veja também
 - [README ConnectTEF](../README.md)
 - [Índice da Seção](README.md)
-- [Integracao Web](10-INTEGRACAO-WEB.md)
+- [Integração Web](10-INTEGRACAO-WEB.md)
 ---
 **Navegação:** [Anterior](08-INTEGRACAO-VIA-DLL.md) | [Início](../README.md) | [Próximo](10-INTEGRACAO-WEB.md)
 <!-- NAVIGATION_FOOTER:END -->

@@ -18,9 +18,9 @@ last_updated: 2026-08-26
 
 <!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](00-APRESENTACAO.md) | [Proximo](02-CONFIGURACAO.md)
+[README principal](../../README.md) | [Índice da documentação](README.md) | [Anterior](00-APRESENTACAO.md) | [Próximo](02-CONFIGURACAO.md)
 ---
-> **Caminho:** [Inicio](../../README.md) / [PDV SmartPOS](README.md) / 01 ARQUITETURA
+> **Caminho:** [Início](../../README.md) / [PDV SmartPOS](README.md) / 01 ARQUITETURA
 <!-- NAVIGATION:END -->
 
 # 01 - Arquitetura

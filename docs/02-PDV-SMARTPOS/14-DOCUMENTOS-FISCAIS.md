@@ -18,9 +18,9 @@ last_updated: 2026-08-26
 
 <!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](13-GRUPOS-E-CATEGORIAS.md) | [Proximo](15-PAGAMENTOS-E-TEF.md)
+[README principal](../../README.md) | [Índice da documentação](README.md) | [Anterior](13-GRUPOS-E-CATEGORIAS.md) | [Próximo](15-PAGAMENTOS-E-TEF.md)
 ---
-> **Caminho:** [Inicio](../../README.md) / [PDV SmartPOS](README.md) / 14 DOCUMENTOS FISCAIS
+> **Caminho:** [Início](../../README.md) / [PDV SmartPOS](README.md) / 14 DOCUMENTOS FISCAIS
 <!-- NAVIGATION:END -->
 
 # 14 - Documentos Fiscais

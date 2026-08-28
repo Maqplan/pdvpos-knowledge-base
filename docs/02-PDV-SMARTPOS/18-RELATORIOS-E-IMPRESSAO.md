@@ -18,9 +18,9 @@ last_updated: 2026-08-26
 
 <!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](17-CONFIGURACOES.md) | [Proximo](19-DIFERENCIAIS.md)
+[README principal](../../README.md) | [Índice da documentação](README.md) | [Anterior](17-CONFIGURACOES.md) | [Próximo](19-DIFERENCIAIS.md)
 ---
-> **Caminho:** [Inicio](../../README.md) / [PDV SmartPOS](README.md) / 18 RELATORIOS E IMPRESSAO
+> **Caminho:** [Início](../../README.md) / [PDV SmartPOS](README.md) / 18 RELATORIOS E IMPRESSAO
 <!-- NAVIGATION:END -->
 
 # 18 - Relatórios e Impressão

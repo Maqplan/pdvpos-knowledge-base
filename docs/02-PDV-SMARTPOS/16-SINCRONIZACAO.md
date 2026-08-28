@@ -18,9 +18,9 @@ last_updated: 2026-08-26
 
 <!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](15-PAGAMENTOS-E-TEF.md) | [Proximo](17-CONFIGURACOES.md)
+[README principal](../../README.md) | [Índice da documentação](README.md) | [Anterior](15-PAGAMENTOS-E-TEF.md) | [Próximo](17-CONFIGURACOES.md)
 ---
-> **Caminho:** [Inicio](../../README.md) / [PDV SmartPOS](README.md) / 16 SINCRONIZACAO
+> **Caminho:** [Início](../../README.md) / [PDV SmartPOS](README.md) / 16 SINCRONIZACAO
 <!-- NAVIGATION:END -->
 
 # 16 - Sincronização

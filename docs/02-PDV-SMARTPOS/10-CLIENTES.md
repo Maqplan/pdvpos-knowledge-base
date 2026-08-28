@@ -18,9 +18,9 @@ last_updated: 2026-08-26
 
 <!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](09-HISTORICO-DE-CAIXAS.md) | [Proximo](11-ESTOQUE.md)
+[README principal](../../README.md) | [Índice da documentação](README.md) | [Anterior](09-HISTORICO-DE-CAIXAS.md) | [Próximo](11-ESTOQUE.md)
 ---
-> **Caminho:** [Inicio](../../README.md) / [PDV SmartPOS](README.md) / 10 CLIENTES
+> **Caminho:** [Início](../../README.md) / [PDV SmartPOS](README.md) / 10 CLIENTES
 <!-- NAVIGATION:END -->
 
 # 10 - Clientes

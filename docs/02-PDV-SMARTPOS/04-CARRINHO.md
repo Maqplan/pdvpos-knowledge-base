@@ -18,9 +18,9 @@ last_updated: 2026-08-26
 
 <!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](03-VENDAS.md) | [Proximo](05-PEDIDOS-DE-VENDA.md)
+[README principal](../../README.md) | [Índice da documentação](README.md) | [Anterior](03-VENDAS.md) | [Próximo](05-PEDIDOS-DE-VENDA.md)
 ---
-> **Caminho:** [Inicio](../../README.md) / [PDV SmartPOS](README.md) / 04 CARRINHO
+> **Caminho:** [Início](../../README.md) / [PDV SmartPOS](README.md) / 04 CARRINHO
 <!-- NAVIGATION:END -->
 
 # 04 - Carrinho

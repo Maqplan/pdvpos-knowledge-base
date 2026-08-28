@@ -18,9 +18,9 @@ last_updated: 2026-08-26
 
 <!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](06-MESAS-E-COMANDAS.md) | [Proximo](08-HISTORICO-DE-VENDAS.md)
+[README principal](../../README.md) | [Índice da documentação](README.md) | [Anterior](06-MESAS-E-COMANDAS.md) | [Próximo](08-HISTORICO-DE-VENDAS.md)
 ---
-> **Caminho:** [Inicio](../../README.md) / [PDV SmartPOS](README.md) / 07 CAIXA
+> **Caminho:** [Início](../../README.md) / [PDV SmartPOS](README.md) / 07 CAIXA
 <!-- NAVIGATION:END -->
 
 # 07 - Caixa

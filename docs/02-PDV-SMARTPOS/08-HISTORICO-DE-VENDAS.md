@@ -18,9 +18,9 @@ last_updated: 2026-08-26
 
 <!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](07-CAIXA.md) | [Proximo](09-HISTORICO-DE-CAIXAS.md)
+[README principal](../../README.md) | [Índice da documentação](README.md) | [Anterior](07-CAIXA.md) | [Próximo](09-HISTORICO-DE-CAIXAS.md)
 ---
-> **Caminho:** [Inicio](../../README.md) / [PDV SmartPOS](README.md) / 08 HISTORICO DE VENDAS
+> **Caminho:** [Início](../../README.md) / [PDV SmartPOS](README.md) / 08 HISTORICO DE VENDAS
 <!-- NAVIGATION:END -->
 
 # 08 - Histórico de Vendas

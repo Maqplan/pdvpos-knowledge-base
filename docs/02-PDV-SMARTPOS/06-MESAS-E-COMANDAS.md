@@ -18,9 +18,9 @@ last_updated: 2026-08-26
 
 <!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](05-PEDIDOS-DE-VENDA.md) | [Proximo](07-CAIXA.md)
+[README principal](../../README.md) | [Índice da documentação](README.md) | [Anterior](05-PEDIDOS-DE-VENDA.md) | [Próximo](07-CAIXA.md)
 ---
-> **Caminho:** [Inicio](../../README.md) / [PDV SmartPOS](README.md) / 06 MESAS E COMANDAS
+> **Caminho:** [Início](../../README.md) / [PDV SmartPOS](README.md) / 06 MESAS E COMANDAS
 <!-- NAVIGATION:END -->
 
 # 06 - Mesas e Comandas
@@ -290,11 +290,11 @@ A combinação entre pedidos compartilhados, sincronização automática, integr
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README principal](../../README.md)
-- [Indice da documentacao](README.md)
-- [Proximo](07-CAIXA.md)
+- [Índice da documentação](README.md)
+- [Próximo](07-CAIXA.md)
 ---
-**Navegacao:** [Anterior](05-PEDIDOS-DE-VENDA.md) | [Inicio](../../README.md) | [Proximo](07-CAIXA.md)
+**Navegação:** [Anterior](05-PEDIDOS-DE-VENDA.md) | [Início](../../README.md) | [Próximo](07-CAIXA.md)
 <!-- NAVIGATION_FOOTER:END -->
 

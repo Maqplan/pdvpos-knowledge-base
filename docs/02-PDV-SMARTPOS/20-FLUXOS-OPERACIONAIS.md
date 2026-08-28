@@ -18,9 +18,9 @@ last_updated: 2026-08-26
 
 <!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](19-DIFERENCIAIS.md) | Proximo
+[README principal](../../README.md) | [Índice da documentação](README.md) | [Anterior](19-DIFERENCIAIS.md)
 ---
-> **Caminho:** [Inicio](../../README.md) / [PDV SmartPOS](README.md) / 20 FLUXOS OPERACIONAIS
+> **Caminho:** [Início](../../README.md) / [PDV SmartPOS](README.md) / 20 FLUXOS OPERACIONAIS
 <!-- NAVIGATION:END -->
 
 # 20 - Fluxos Operacionais

@@ -18,9 +18,9 @@ last_updated: 2026-08-26
 
 <!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](10-CLIENTES.md) | [Proximo](12-PRODUTOS.md)
+[README principal](../../README.md) | [Índice da documentação](README.md) | [Anterior](10-CLIENTES.md) | [Próximo](12-PRODUTOS.md)
 ---
-> **Caminho:** [Inicio](../../README.md) / [PDV SmartPOS](README.md) / 11 ESTOQUE
+> **Caminho:** [Início](../../README.md) / [PDV SmartPOS](README.md) / 11 ESTOQUE
 <!-- NAVIGATION:END -->
 
 # 11 - Estoque

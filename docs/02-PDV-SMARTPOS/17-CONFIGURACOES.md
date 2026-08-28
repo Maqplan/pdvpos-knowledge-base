@@ -18,9 +18,9 @@ last_updated: 2026-08-26
 
 <!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](16-SINCRONIZACAO.md) | [Proximo](18-RELATORIOS-E-IMPRESSAO.md)
+[README principal](../../README.md) | [Índice da documentação](README.md) | [Anterior](16-SINCRONIZACAO.md) | [Próximo](18-RELATORIOS-E-IMPRESSAO.md)
 ---
-> **Caminho:** [Inicio](../../README.md) / [PDV SmartPOS](README.md) / 17 CONFIGURACOES
+> **Caminho:** [Início](../../README.md) / [PDV SmartPOS](README.md) / 17 CONFIGURACOES
 <!-- NAVIGATION:END -->
 
 # 17 - Configurações

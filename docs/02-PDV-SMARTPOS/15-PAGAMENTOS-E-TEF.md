@@ -18,9 +18,9 @@ last_updated: 2026-08-26
 
 <!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](14-DOCUMENTOS-FISCAIS.md) | [Proximo](16-SINCRONIZACAO.md)
+[README principal](../../README.md) | [Índice da documentação](README.md) | [Anterior](14-DOCUMENTOS-FISCAIS.md) | [Próximo](16-SINCRONIZACAO.md)
 ---
-> **Caminho:** [Inicio](../../README.md) / [PDV SmartPOS](README.md) / 15 PAGAMENTOS E TEF
+> **Caminho:** [Início](../../README.md) / [PDV SmartPOS](README.md) / 15 PAGAMENTOS E TEF
 <!-- NAVIGATION:END -->
 
 # 15 - Pagamentos e TEF

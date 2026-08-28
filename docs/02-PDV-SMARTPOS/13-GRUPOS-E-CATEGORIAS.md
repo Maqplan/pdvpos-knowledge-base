@@ -18,9 +18,9 @@ last_updated: 2026-08-26
 
 <!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](12-PRODUTOS.md) | [Proximo](14-DOCUMENTOS-FISCAIS.md)
+[README principal](../../README.md) | [Índice da documentação](README.md) | [Anterior](12-PRODUTOS.md) | [Próximo](14-DOCUMENTOS-FISCAIS.md)
 ---
-> **Caminho:** [Inicio](../../README.md) / [PDV SmartPOS](README.md) / 13 GRUPOS E CATEGORIAS
+> **Caminho:** [Início](../../README.md) / [PDV SmartPOS](README.md) / 13 GRUPOS E CATEGORIAS
 <!-- NAVIGATION:END -->
 
 # 13 - Grupos e Categorias

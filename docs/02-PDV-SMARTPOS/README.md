@@ -18,9 +18,9 @@ last_updated: 2026-08-26
 
 <!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [Indice da documentacao](README.md) | Anterior | [Proximo](00-APRESENTACAO.md)
+[README principal](../../README.md) | [Índice da documentação](README.md) | Anterior | [Próximo](00-APRESENTACAO.md)
 ---
-> **Caminho:** [Inicio](../../README.md) / [PDV SmartPOS](README.md) / README
+> **Caminho:** [Início](../../README.md) / [PDV SmartPOS](README.md) / README
 <!-- NAVIGATION:END -->
 
 # PDV SmartPOS
@@ -188,11 +188,11 @@ Para conhecer toda a plataforma, recomenda-se a seguinte sequência:
 
 <!-- NAVIGATION_FOOTER:START -->
 ---
-### Veja tambem
+### Veja também
 - [README principal](../../README.md)
-++ [Indice da documentacao](README.md)
-- [Proximo](00-APRESENTACAO.md)
+- [Índice da documentação](README.md)
+- [Próximo](00-APRESENTACAO.md)
 ---
-**Navegacao:** Anterior | [Inicio](../../README.md) | [Proximo](00-APRESENTACAO.md)
+**Navegação:** Anterior | [Início](../../README.md) | [Próximo](00-APRESENTACAO.md)
 <!-- NAVIGATION_FOOTER:END -->
 

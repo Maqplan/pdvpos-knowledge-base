@@ -18,9 +18,9 @@ last_updated: 2026-08-26
 
 <!-- NAVIGATION:START -->
 ---
-[README principal](../../README.md) | [Indice da documentacao](README.md) | [Anterior](11-ESTOQUE.md) | [Proximo](13-GRUPOS-E-CATEGORIAS.md)
+[README principal](../../README.md) | [Índice da documentação](README.md) | [Anterior](11-ESTOQUE.md) | [Próximo](13-GRUPOS-E-CATEGORIAS.md)
 ---
-> **Caminho:** [Inicio](../../README.md) / [PDV SmartPOS](README.md) / 12 PRODUTOS
+> **Caminho:** [Início](../../README.md) / [PDV SmartPOS](README.md) / 12 PRODUTOS
 <!-- NAVIGATION:END -->
 
 # 12 - Produtos

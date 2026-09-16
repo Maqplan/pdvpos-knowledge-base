@@ -102,7 +102,7 @@ PRODUCTS
 
 PDVPOS ERP
 
-https://help.pdvpos.com.br/docs/01-FUNCTIONAL-MODULES/
+https://help.pdvpos.com.br/docs/01-FUNCTIONAL-MODULES/README.html
 
 PDV Desktop
 
@@ -114,7 +114,7 @@ https://help.pdvpos.com.br/docs/02-PDV-SMARTPOS/
 
 ConnectTEF
 
-https://help.pdvpos.com.br/docs/04-CONNECTTEF/
+https://help.pdvpos.com.br/docs/04-CONNECTTEF/README.html
 
 ==================================================================
 FUNCTIONAL DOCUMENTATION
@@ -122,7 +122,7 @@ FUNCTIONAL DOCUMENTATION
 
 ERP
 
-https://help.pdvpos.com.br/docs/01-FUNCTIONAL-MODULES/
+https://help.pdvpos.com.br/docs/01-FUNCTIONAL-MODULES/README.html
 
 PDV Desktop
 
@@ -134,7 +134,7 @@ https://help.pdvpos.com.br/docs/02-PDV-SMARTPOS/
 
 ConnectTEF
 
-https://help.pdvpos.com.br/docs/04-CONNECTTEF/
+https://help.pdvpos.com.br/docs/04-CONNECTTEF/README.html
 
 ==================================================================
 ARCHITECTURE
@@ -162,7 +162,7 @@ SALES
 
 ERP Sales
 
-https://help.pdvpos.com.br/docs/01-FUNCTIONAL-MODULES/09-GESTAO-COMERCIAL-E-VENDAS.md
+https://help.pdvpos.com.br/docs/01-FUNCTIONAL-MODULES/09-GESTAO-COMERCIAL-E-VENDAS.html
 
 PDV Desktop Sales
 
@@ -186,7 +186,7 @@ https://help.pdvpos.com.br/docs/02-PDV-SMARTPOS/15-PAGAMENTOS-E-TEF.md
 
 ConnectTEF
 
-https://help.pdvpos.com.br/docs/04-CONNECTTEF/
+https://help.pdvpos.com.br/docs/04-CONNECTTEF/README.html
 
 Developer Documentation
 
@@ -198,7 +198,7 @@ FISCAL DOCUMENTS
 
 ERP Fiscal
 
-https://help.pdvpos.com.br/docs/01-FUNCTIONAL-MODULES/12-GESTAO-FISCAL-E-DOCUMENTOS-ELETRONICOS.md
+https://help.pdvpos.com.br/docs/01-FUNCTIONAL-MODULES/12-GESTAO-FISCAL-E-DOCUMENTOS-ELETRONICOS.html
 
 PDV Desktop Fiscal Documents
 
@@ -242,7 +242,7 @@ INTEGRATIONS
 
 ConnectTEF
 
-https://help.pdvpos.com.br/docs/04-CONNECTTEF/
+https://help.pdvpos.com.br/docs/04-CONNECTTEF/README.html
 
 Developer Documentation
 
@@ -274,7 +274,7 @@ https://api.erpsaas.com.br/docs/
 
 ConnectTEF Technical Documentation
 
-https://docs.connecttef.com.br/
+https://connecttef.com.br/docs
 
 ==================================================================
 PRODUCT NAMING

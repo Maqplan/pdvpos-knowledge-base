@@ -1,37 +1,15 @@
 ---
-title: 02 CANCELAMENTO
+title: 02 - Cancelamento
 classification: PUBLIC
 owner: PDVPOS LTDA
-version: "1.0"
-last_updated: 2026-08-27
+last_updated: 2026-11-20
 ---
 
-> **PROPRIEDADE INTELECTUAL**
->
-> Conteúdo pertencente a PDVPOS LTDA.
-> Esta documentação é disponibilizada para fins de consulta,
-> utilização e suporte aos produtos e serviços PDVPOS.
-> É proibida sua reprodução, redistribuição, comercialização
-> ou utilização fora dessa finalidade sem autorização expressa.
->
-> © 2026 PDVPOS LTDA. Todos os direitos reservados.
-<!-- NAVIGATION:START -->
+# Cancelamento
 
----
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](01-PAGAMENTO.md) | [Próximo](03-REIMPRESSAO.md)
----
+Na API Smart POS, o cancelamento é documentado como estorno de um pagamento aprovado. A solicitação usa os dados de autorização recebidos no webhook.
 
-> **Caminho:** [Início](../README.md) / Recursos / Cancelamento
-<!-- NAVIGATION:END -->
+[Solicitar estorno](https://connecttef.com.br/docs/smartpos-erp-web-api/api/estorno)
 
+[← Anterior](01-PAGAMENTO.md) · [Recursos](README.md) · [Próximo →](03-REIMPRESSAO.md)
 
-
-<!-- NAVIGATION_FOOTER:START -->
----
-### Veja também
-- [README ConnectTEF](../README.md)
-- [Índice da Seção](README.md)
-- [Reimpressão](03-REIMPRESSAO.md)
----
-**Navegação:** [Anterior](01-PAGAMENTO.md) | [Início](../README.md) | [Próximo](03-REIMPRESSAO.md)
-<!-- NAVIGATION_FOOTER:END -->

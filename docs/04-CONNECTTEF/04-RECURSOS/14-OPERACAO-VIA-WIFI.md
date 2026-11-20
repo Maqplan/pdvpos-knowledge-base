@@ -1,37 +1,15 @@
 ---
-title: 14 OPERACAO VIA WIFI
+title: 14 - Operação via Wi-Fi
 classification: PUBLIC
 owner: PDVPOS LTDA
-version: "1.0"
-last_updated: 2026-08-27
+last_updated: 2026-11-20
 ---
 
-> **PROPRIEDADE INTELECTUAL**
->
-> Conteúdo pertencente a PDVPOS LTDA.
-> Esta documentação é disponibilizada para fins de consulta,
-> utilização e suporte aos produtos e serviços PDVPOS.
-> É proibida sua reprodução, redistribuição, comercialização
-> ou utilização fora dessa finalidade sem autorização expressa.
->
-> © 2026 PDVPOS LTDA. Todos os direitos reservados.
-<!-- NAVIGATION:START -->
+# Operação via Wi-Fi
 
----
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](13-MODO-OFFLINE.md) | [Próximo](15-OPERACAO-VIA-REDE-LOCAL.md)
----
+O portal da API não define neste guia um protocolo ou requisito operacional de Wi-Fi. A conectividade e a compatibilidade devem ser confirmadas para o modelo de Smart POS e adquirente envolvidos.
 
-> **Caminho:** [Início](../README.md) / Recursos / Operação via Wifi
-<!-- NAVIGATION:END -->
+[Documentação oficial](https://connecttef.com.br/docs) · [FAQ da API](https://connecttef.com.br/docs/smartpos-erp-web-api/faq)
 
+[← Anterior](13-MODO-OFFLINE.md) · [Recursos](README.md) · [Próximo →](15-OPERACAO-VIA-REDE-LOCAL.md)
 
-
-<!-- NAVIGATION_FOOTER:START -->
----
-### Veja também
-- [README ConnectTEF](../README.md)
-- [Índice da Seção](README.md)
-- [Operação via Rede Local](15-OPERACAO-VIA-REDE-LOCAL.md)
----
-**Navegação:** [Anterior](13-MODO-OFFLINE.md) | [Início](../README.md) | [Próximo](15-OPERACAO-VIA-REDE-LOCAL.md)
-<!-- NAVIGATION_FOOTER:END -->

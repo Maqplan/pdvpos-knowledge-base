@@ -1,37 +1,15 @@
 ---
-title: 18 MULTIPLOS PEDIDOS
+title: 18 - Múltiplos pedidos
 classification: PUBLIC
 owner: PDVPOS LTDA
-version: "1.0"
-last_updated: 2026-08-27
+last_updated: 2026-11-20
 ---
 
-> **PROPRIEDADE INTELECTUAL**
->
-> Conteúdo pertencente a PDVPOS LTDA.
-> Esta documentação é disponibilizada para fins de consulta,
-> utilização e suporte aos produtos e serviços PDVPOS.
-> É proibida sua reprodução, redistribuição, comercialização
-> ou utilização fora dessa finalidade sem autorização expressa.
->
-> © 2026 PDVPOS LTDA. Todos os direitos reservados.
-<!-- NAVIGATION:START -->
+# Múltiplos pedidos
 
----
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](17-MULTIPLOS-CAIXAS.md) | [Próximo](19-INTEGRACAO-COM-DELIVERY.md)
----
+Para correlacionar operações, a documentação oficial orienta usar uma referência única por tentativa. No modo manual, a comanda pode exibir a identificação do pedido no card da fila.
 
-> **Caminho:** [Início](../README.md) / Recursos / Múltiplos Pedidos
-<!-- NAVIGATION:END -->
+[Solicitar pagamento](https://connecttef.com.br/docs/smartpos-erp-web-api/api/pagamento) · [Remover operação da fila](https://connecttef.com.br/docs/smartpos-erp-web-api/api/remocao-fila)
 
+[← Anterior](17-MULTIPLOS-CAIXAS.md) · [Recursos](README.md) · [Próximo →](19-INTEGRACAO-COM-DELIVERY.md)
 
-
-<!-- NAVIGATION_FOOTER:START -->
----
-### Veja também
-- [README ConnectTEF](../README.md)
-- [Índice da Seção](README.md)
-- [Integração com Delivery](19-INTEGRACAO-COM-DELIVERY.md)
----
-**Navegação:** [Anterior](17-MULTIPLOS-CAIXAS.md) | [Início](../README.md) | [Próximo](19-INTEGRACAO-COM-DELIVERY.md)
-<!-- NAVIGATION_FOOTER:END -->

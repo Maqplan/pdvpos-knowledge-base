@@ -1,37 +1,15 @@
 ---
-title: 19 INTEGRACAO COM DELIVERY
+title: 19 - Integração com delivery
 classification: PUBLIC
 owner: PDVPOS LTDA
-version: "1.0"
-last_updated: 2026-08-27
+last_updated: 2026-11-20
 ---
 
-> **PROPRIEDADE INTELECTUAL**
->
-> Conteúdo pertencente a PDVPOS LTDA.
-> Esta documentação é disponibilizada para fins de consulta,
-> utilização e suporte aos produtos e serviços PDVPOS.
-> É proibida sua reprodução, redistribuição, comercialização
-> ou utilização fora dessa finalidade sem autorização expressa.
->
-> © 2026 PDVPOS LTDA. Todos os direitos reservados.
-<!-- NAVIGATION:START -->
+# Integração com delivery
 
----
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](18-MULTIPLOS-PEDIDOS.md) | [Próximo](20-INTEGRACAO-COM-MESAS.md)
----
+O portal oficial não apresenta uma integração de delivery específica. A API permite transportar uma identificação de comanda/pedido no modo manual, mas o fluxo de delivery precisa ser definido pelo sistema integrador.
 
-> **Caminho:** [Início](../README.md) / Recursos / Integração com Delivery
-<!-- NAVIGATION:END -->
+[Solicitar pagamento](https://connecttef.com.br/docs/smartpos-erp-web-api/api/pagamento) · [FAQ da API](https://connecttef.com.br/docs/smartpos-erp-web-api/faq)
 
+[← Anterior](18-MULTIPLOS-PEDIDOS.md) · [Recursos](README.md) · [Próximo →](20-INTEGRACAO-COM-MESAS.md)
 
-
-<!-- NAVIGATION_FOOTER:START -->
----
-### Veja também
-- [README ConnectTEF](../README.md)
-- [Índice da Seção](README.md)
-- [Integração com Mesas](20-INTEGRACAO-COM-MESAS.md)
----
-**Navegação:** [Anterior](18-MULTIPLOS-PEDIDOS.md) | [Início](../README.md) | [Próximo](20-INTEGRACAO-COM-MESAS.md)
-<!-- NAVIGATION_FOOTER:END -->

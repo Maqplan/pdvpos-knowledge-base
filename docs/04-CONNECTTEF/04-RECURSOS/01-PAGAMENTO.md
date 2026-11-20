@@ -1,37 +1,16 @@
 ---
-title: 01 PAGAMENTO
+title: 01 - Pagamento
 classification: PUBLIC
 owner: PDVPOS LTDA
-version: "1.0"
-last_updated: 2026-08-27
+last_updated: 2026-11-20
 ---
 
-> **PROPRIEDADE INTELECTUAL**
->
-> Conteúdo pertencente a PDVPOS LTDA.
-> Esta documentação é disponibilizada para fins de consulta,
-> utilização e suporte aos produtos e serviços PDVPOS.
-> É proibida sua reprodução, redistribuição, comercialização
-> ou utilização fora dessa finalidade sem autorização expressa.
->
-> © 2026 PDVPOS LTDA. Todos os direitos reservados.
-<!-- NAVIGATION:START -->
+# Pagamento
 
----
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](README.md) | [Próximo](02-CANCELAMENTO.md)
----
+O pagamento é solicitado pela API Smart POS e o resultado final é entregue ao sistema por webhook. A resposta inicial não representa aprovação.
 
-> **Caminho:** [Início](../README.md) / Recursos / Pagamento
-<!-- NAVIGATION:END -->
+[Solicitar pagamento](https://connecttef.com.br/docs/smartpos-erp-web-api/api/pagamento)
+[Webhooks](https://connecttef.com.br/docs/smartpos-erp-web-api/webhooks)
 
+[← Anterior](README.md) · [Recursos](README.md) · [Próximo →](02-CANCELAMENTO.md)
 
-
-<!-- NAVIGATION_FOOTER:START -->
----
-### Veja também
-- [README ConnectTEF](../README.md)
-- [Índice da Seção](README.md)
-- [Cancelamento](02-CANCELAMENTO.md)
----
-**Navegação:** [Anterior](README.md) | [Início](../README.md) | [Próximo](02-CANCELAMENTO.md)
-<!-- NAVIGATION_FOOTER:END -->

@@ -26,7 +26,16 @@ last_updated: 2026-08-27
 
 # 04 - Recursos
 
-Esta secao detalha os recursos operacionais disponiveis no ConnectTEF.
+Esta seção funciona como um índice de encaminhamento para a documentação oficial
+do ConnectTEF. As páginas locais não duplicam contratos de API, payloads ou
+regras que podem mudar no portal oficial.
+
+> **Fonte técnica oficial:** [ConnectTEF Docs](https://connecttef.com.br/docs)
+> · [Guia da API Smart POS](https://connecttef.com.br/docs/smartpos-erp-web-api)
+
+O guia oficial documenta o fluxo de cadastrar o Smart POS, solicitar operações,
+receber o resultado por webhook e tratar falhas/reenvios. Quando um item abaixo
+não possui uma página específica no portal, isso é indicado explicitamente.
 
 ---
 

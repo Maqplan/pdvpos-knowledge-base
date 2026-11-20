@@ -1,37 +1,15 @@
 ---
-title: 11 LEITOR DE CODIGO DE BARRAS
+title: 11 - Leitor de código de barras
 classification: PUBLIC
 owner: PDVPOS LTDA
-version: "1.0"
-last_updated: 2026-08-27
+last_updated: 2026-11-20
 ---
 
-> **PROPRIEDADE INTELECTUAL**
->
-> Conteúdo pertencente a PDVPOS LTDA.
-> Esta documentação é disponibilizada para fins de consulta,
-> utilização e suporte aos produtos e serviços PDVPOS.
-> É proibida sua reprodução, redistribuição, comercialização
-> ou utilização fora dessa finalidade sem autorização expressa.
->
-> © 2026 PDVPOS LTDA. Todos os direitos reservados.
-<!-- NAVIGATION:START -->
+# Leitor de código de barras
 
----
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](10-PESQUISA-NPS.md) | [Próximo](12-IMPRESSAO.md)
----
+O guia atual da API Smart POS não documenta uma operação de leitura de código de barras. Não assumir suporte sem confirmação da documentação oficial ou da equipe.
 
-> **Caminho:** [Início](../README.md) / Recursos / Leitor de Código de Barras
-<!-- NAVIGATION:END -->
+[Documentação oficial](https://connecttef.com.br/docs) · [Guia da API Smart POS](https://connecttef.com.br/docs/smartpos-erp-web-api)
 
+[← Anterior](10-PESQUISA-NPS.md) · [Recursos](README.md) · [Próximo →](12-IMPRESSAO.md)
 
-
-<!-- NAVIGATION_FOOTER:START -->
----
-### Veja também
-- [README ConnectTEF](../README.md)
-- [Índice da Seção](README.md)
-- [Impressão](12-IMPRESSAO.md)
----
-**Navegação:** [Anterior](10-PESQUISA-NPS.md) | [Início](../README.md) | [Próximo](12-IMPRESSAO.md)
-<!-- NAVIGATION_FOOTER:END -->

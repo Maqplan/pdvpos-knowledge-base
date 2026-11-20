@@ -1,37 +1,15 @@
 ---
-title: 12 IMPRESSAO
+title: 12 - Impressão
 classification: PUBLIC
 owner: PDVPOS LTDA
-version: "1.0"
-last_updated: 2026-08-27
+last_updated: 2026-11-20
 ---
 
-> **PROPRIEDADE INTELECTUAL**
->
-> Conteúdo pertencente a PDVPOS LTDA.
-> Esta documentação é disponibilizada para fins de consulta,
-> utilização e suporte aos produtos e serviços PDVPOS.
-> É proibida sua reprodução, redistribuição, comercialização
-> ou utilização fora dessa finalidade sem autorização expressa.
->
-> © 2026 PDVPOS LTDA. Todos os direitos reservados.
-<!-- NAVIGATION:START -->
+# Impressão
 
----
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](11-LEITOR-DE-CODIGO-DE-BARRAS.md) | [Próximo](13-MODO-OFFLINE.md)
----
+A API Smart POS possui uma operação específica para solicitar impressão e também permite preferências de impressão/visualização no pagamento.
 
-> **Caminho:** [Início](../README.md) / Recursos / Impressão
-<!-- NAVIGATION:END -->
+[Solicitar impressão](https://connecttef.com.br/docs/smartpos-erp-web-api/api/impressao) · [Guia de integração](https://connecttef.com.br/docs/smartpos-erp-web-api)
 
+[← Anterior](11-LEITOR-DE-CODIGO-DE-BARRAS.md) · [Recursos](README.md) · [Próximo →](13-MODO-OFFLINE.md)
 
-
-<!-- NAVIGATION_FOOTER:START -->
----
-### Veja também
-- [README ConnectTEF](../README.md)
-- [Índice da Seção](README.md)
-- [Modo Offline](13-MODO-OFFLINE.md)
----
-**Navegação:** [Anterior](11-LEITOR-DE-CODIGO-DE-BARRAS.md) | [Início](../README.md) | [Próximo](13-MODO-OFFLINE.md)
-<!-- NAVIGATION_FOOTER:END -->

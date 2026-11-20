@@ -1,37 +1,15 @@
 ---
-title: 04 PAGAMENTO PARCELADO
+title: 04 - Pagamento parcelado
 classification: PUBLIC
 owner: PDVPOS LTDA
-version: "1.0"
-last_updated: 2026-08-27
+last_updated: 2026-11-20
 ---
 
-> **PROPRIEDADE INTELECTUAL**
->
-> Conteúdo pertencente a PDVPOS LTDA.
-> Esta documentação é disponibilizada para fins de consulta,
-> utilização e suporte aos produtos e serviços PDVPOS.
-> É proibida sua reprodução, redistribuição, comercialização
-> ou utilização fora dessa finalidade sem autorização expressa.
->
-> © 2026 PDVPOS LTDA. Todos os direitos reservados.
-<!-- NAVIGATION:START -->
+# Pagamento parcelado
 
----
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](03-REIMPRESSAO.md) | [Próximo](05-FILA-DE-COBRANCAS.md)
----
+O parcelamento é tratado como parte da solicitação de pagamento. A documentação oficial descreve `parcelas` e `parcelamento` para pagamentos em crédito.
 
-> **Caminho:** [Início](../README.md) / Recursos / Pagamento Parcelado
-<!-- NAVIGATION:END -->
+[Solicitar pagamento](https://connecttef.com.br/docs/smartpos-erp-web-api/api/pagamento)
 
+[← Anterior](03-REIMPRESSAO.md) · [Recursos](README.md) · [Próximo →](05-FILA-DE-COBRANCAS.md)
 
-
-<!-- NAVIGATION_FOOTER:START -->
----
-### Veja também
-- [README ConnectTEF](../README.md)
-- [Índice da Seção](README.md)
-- [Fila de Cobranças](05-FILA-DE-COBRANCAS.md)
----
-**Navegação:** [Anterior](03-REIMPRESSAO.md) | [Início](../README.md) | [Próximo](05-FILA-DE-COBRANCAS.md)
-<!-- NAVIGATION_FOOTER:END -->

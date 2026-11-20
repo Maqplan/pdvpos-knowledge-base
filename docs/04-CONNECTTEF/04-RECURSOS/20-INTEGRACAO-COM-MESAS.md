@@ -1,37 +1,15 @@
 ---
-title: 20 INTEGRACAO COM MESAS
+title: 20 - Integração com mesas
 classification: PUBLIC
 owner: PDVPOS LTDA
-version: "1.0"
-last_updated: 2026-08-27
+last_updated: 2026-11-20
 ---
 
-> **PROPRIEDADE INTELECTUAL**
->
-> Conteúdo pertencente a PDVPOS LTDA.
-> Esta documentação é disponibilizada para fins de consulta,
-> utilização e suporte aos produtos e serviços PDVPOS.
-> É proibida sua reprodução, redistribuição, comercialização
-> ou utilização fora dessa finalidade sem autorização expressa.
->
-> © 2026 PDVPOS LTDA. Todos os direitos reservados.
-<!-- NAVIGATION:START -->
+# Integração com mesas
 
----
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](19-INTEGRACAO-COM-DELIVERY.md) | [Próximo](../05-FAQ/README.md)
----
+O portal oficial não documenta uma integração de mesas específica. No modo manual, a identificação da comanda pode representar mesa, pedido ou senha, mas essa modelagem pertence ao sistema integrador.
 
-> **Caminho:** [Início](../README.md) / Recursos / Integração com Mesas
-<!-- NAVIGATION:END -->
+[Solicitar pagamento](https://connecttef.com.br/docs/smartpos-erp-web-api/api/pagamento) · [Documentação oficial](https://connecttef.com.br/docs)
 
+[← Anterior](19-INTEGRACAO-COM-DELIVERY.md) · [Recursos](README.md) · [Próximo →](README.md)
 
-
-<!-- NAVIGATION_FOOTER:START -->
----
-### Veja também
-- [README ConnectTEF](../README.md)
-- [Índice da Seção](README.md)
-- [README](../05-FAQ/README.md)
----
-**Navegação:** [Anterior](19-INTEGRACAO-COM-DELIVERY.md) | [Início](../README.md) | [Próximo](../05-FAQ/README.md)
-<!-- NAVIGATION_FOOTER:END -->

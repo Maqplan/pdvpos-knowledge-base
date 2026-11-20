@@ -1,37 +1,15 @@
 ---
-title: 06 MARKETING NA SMARTPOS
+title: 06 - Marketing na Smart POS
 classification: PUBLIC
 owner: PDVPOS LTDA
-version: "1.0"
-last_updated: 2026-08-27
+last_updated: 2026-11-20
 ---
 
-> **PROPRIEDADE INTELECTUAL**
->
-> Conteúdo pertencente a PDVPOS LTDA.
-> Esta documentação é disponibilizada para fins de consulta,
-> utilização e suporte aos produtos e serviços PDVPOS.
-> É proibida sua reprodução, redistribuição, comercialização
-> ou utilização fora dessa finalidade sem autorização expressa.
->
-> © 2026 PDVPOS LTDA. Todos os direitos reservados.
-<!-- NAVIGATION:START -->
+# Marketing na Smart POS
 
----
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](05-FILA-DE-COBRANCAS.md) | [Próximo](07-CAPTURA-DE-CPF.md)
----
+O portal oficial da API Smart POS não apresenta, nesta jornada, uma operação específica de marketing ou conteúdo promocional no dispositivo. Consulte o portal para atualizações e valide o cenário com a equipe ConnectTEF.
 
-> **Caminho:** [Início](../README.md) / Recursos / Marketing na SmartPOS
-<!-- NAVIGATION:END -->
+[Documentação oficial](https://connecttef.com.br/docs) · [FAQ da API](https://connecttef.com.br/docs/smartpos-erp-web-api/faq)
 
+[← Anterior](05-FILA-DE-COBRANCAS.md) · [Recursos](README.md) · [Próximo →](07-CAPTURA-DE-CPF.md)
 
-
-<!-- NAVIGATION_FOOTER:START -->
----
-### Veja também
-- [README ConnectTEF](../README.md)
-- [Índice da Seção](README.md)
-- [Captura de Cpf](07-CAPTURA-DE-CPF.md)
----
-**Navegação:** [Anterior](05-FILA-DE-COBRANCAS.md) | [Início](../README.md) | [Próximo](07-CAPTURA-DE-CPF.md)
-<!-- NAVIGATION_FOOTER:END -->

@@ -1,37 +1,15 @@
 ---
-title: 07 CAPTURA DE CPF
+title: 07 - Captura de CPF
 classification: PUBLIC
 owner: PDVPOS LTDA
-version: "1.0"
-last_updated: 2026-08-27
+last_updated: 2026-11-20
 ---
 
-> **PROPRIEDADE INTELECTUAL**
->
-> Conteúdo pertencente a PDVPOS LTDA.
-> Esta documentação é disponibilizada para fins de consulta,
-> utilização e suporte aos produtos e serviços PDVPOS.
-> É proibida sua reprodução, redistribuição, comercialização
-> ou utilização fora dessa finalidade sem autorização expressa.
->
-> © 2026 PDVPOS LTDA. Todos os direitos reservados.
-<!-- NAVIGATION:START -->
+# Captura de CPF
 
----
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](06-MARKETING-NA-SMARTPOS.md) | [Próximo](08-CAPTURA-DE-E-MAIL.md)
----
+Não há uma operação de captura de CPF descrita no guia atual da API Smart POS. O CPF/CNPJ aparece na documentação como identificação do cliente ConnectTEF, não como um recurso de captura no fluxo de pagamento.
 
-> **Caminho:** [Início](../README.md) / Recursos / Captura de Cpf
-<!-- NAVIGATION:END -->
+[Documentação oficial](https://connecttef.com.br/docs) · [Guia da API Smart POS](https://connecttef.com.br/docs/smartpos-erp-web-api)
 
+[← Anterior](06-MARKETING-NA-SMARTPOS.md) · [Recursos](README.md) · [Próximo →](08-CAPTURA-DE-E-MAIL.md)
 
-
-<!-- NAVIGATION_FOOTER:START -->
----
-### Veja também
-- [README ConnectTEF](../README.md)
-- [Índice da Seção](README.md)
-- [Captura de e Mail](08-CAPTURA-DE-E-MAIL.md)
----
-**Navegação:** [Anterior](06-MARKETING-NA-SMARTPOS.md) | [Início](../README.md) | [Próximo](08-CAPTURA-DE-E-MAIL.md)
-<!-- NAVIGATION_FOOTER:END -->

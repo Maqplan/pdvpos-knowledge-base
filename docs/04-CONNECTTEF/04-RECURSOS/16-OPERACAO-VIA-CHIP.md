@@ -1,37 +1,15 @@
 ---
-title: 16 OPERACAO VIA CHIP
+title: 16 - Operação via chip
 classification: PUBLIC
 owner: PDVPOS LTDA
-version: "1.0"
-last_updated: 2026-08-27
+last_updated: 2026-11-20
 ---
 
-> **PROPRIEDADE INTELECTUAL**
->
-> Conteúdo pertencente a PDVPOS LTDA.
-> Esta documentação é disponibilizada para fins de consulta,
-> utilização e suporte aos produtos e serviços PDVPOS.
-> É proibida sua reprodução, redistribuição, comercialização
-> ou utilização fora dessa finalidade sem autorização expressa.
->
-> © 2026 PDVPOS LTDA. Todos os direitos reservados.
-<!-- NAVIGATION:START -->
+# Operação via chip
 
----
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](15-OPERACAO-VIA-REDE-LOCAL.md) | [Próximo](17-MULTIPLOS-CAIXAS.md)
----
+O método de conectividade móvel do Smart POS não é especificado como recurso da API no portal atual. Confirme compatibilidade por equipamento e adquirente.
 
-> **Caminho:** [Início](../README.md) / Recursos / Operação via Chip
-<!-- NAVIGATION:END -->
+[Documentação oficial](https://connecttef.com.br/docs) · [FAQ da API](https://connecttef.com.br/docs/smartpos-erp-web-api/faq)
 
+[← Anterior](15-OPERACAO-VIA-REDE-LOCAL.md) · [Recursos](README.md) · [Próximo →](17-MULTIPLOS-CAIXAS.md)
 
-
-<!-- NAVIGATION_FOOTER:START -->
----
-### Veja também
-- [README ConnectTEF](../README.md)
-- [Índice da Seção](README.md)
-- [Múltiplos Caixas](17-MULTIPLOS-CAIXAS.md)
----
-**Navegação:** [Anterior](15-OPERACAO-VIA-REDE-LOCAL.md) | [Início](../README.md) | [Próximo](17-MULTIPLOS-CAIXAS.md)
-<!-- NAVIGATION_FOOTER:END -->

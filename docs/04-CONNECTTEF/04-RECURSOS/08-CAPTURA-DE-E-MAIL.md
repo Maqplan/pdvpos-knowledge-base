@@ -1,37 +1,15 @@
 ---
-title: 08 CAPTURA DE E MAIL
+title: 08 - Captura de e-mail
 classification: PUBLIC
 owner: PDVPOS LTDA
-version: "1.0"
-last_updated: 2026-08-27
+last_updated: 2026-11-20
 ---
 
-> **PROPRIEDADE INTELECTUAL**
->
-> Conteúdo pertencente a PDVPOS LTDA.
-> Esta documentação é disponibilizada para fins de consulta,
-> utilização e suporte aos produtos e serviços PDVPOS.
-> É proibida sua reprodução, redistribuição, comercialização
-> ou utilização fora dessa finalidade sem autorização expressa.
->
-> © 2026 PDVPOS LTDA. Todos os direitos reservados.
-<!-- NAVIGATION:START -->
+# Captura de e-mail
 
----
-[README ConnectTEF](../README.md) | [Índice da Seção](README.md) | [Anterior](07-CAPTURA-DE-CPF.md) | [Próximo](09-CAPTURA-DE-TELEFONE.md)
----
+Não há uma operação de captura de e-mail descrita no guia atual da API Smart POS. Consulte sempre o portal oficial antes de tratar este item como recurso integrado.
 
-> **Caminho:** [Início](../README.md) / Recursos / Captura de e Mail
-<!-- NAVIGATION:END -->
+[Documentação oficial](https://connecttef.com.br/docs) · [FAQ da API](https://connecttef.com.br/docs/smartpos-erp-web-api/faq)
 
+[← Anterior](07-CAPTURA-DE-CPF.md) · [Recursos](README.md) · [Próximo →](09-CAPTURA-DE-TELEFONE.md)
 
-
-<!-- NAVIGATION_FOOTER:START -->
----
-### Veja também
-- [README ConnectTEF](../README.md)
-- [Índice da Seção](README.md)
-- [Captura de Telefone](09-CAPTURA-DE-TELEFONE.md)
----
-**Navegação:** [Anterior](07-CAPTURA-DE-CPF.md) | [Início](../README.md) | [Próximo](09-CAPTURA-DE-TELEFONE.md)
-<!-- NAVIGATION_FOOTER:END -->
